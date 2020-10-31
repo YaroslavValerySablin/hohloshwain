@@ -1,0 +1,27 @@
+state={
+	id=1028
+	name="STATE_1028"
+	manpower=2211689
+	resources={
+		aluminium=18 # was: 28
+	}	
+
+	state_category = rural
+
+
+	history={
+		owner = LUM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = LUM
+	}
+	provinces={
+		284 293 302 303 310 315 321 335 362 363 374 428 
+	}
+
+	buildings_max_level_factor=1.000
+}

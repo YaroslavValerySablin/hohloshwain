@@ -1,0 +1,18 @@
+state={
+	id=759
+	name="STATE_759"
+	provinces={
+		16499 16542 16613 16703 16720 16721 16750 16844 16881 16921 16968 17063 17064 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ZMR	
+		add_core_of = ZMR
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

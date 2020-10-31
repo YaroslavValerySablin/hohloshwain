@@ -1,0 +1,21 @@
+
+state={
+	id=468
+	name="STATE_468"
+	provinces={
+		15769 15816 16256 16454 16649 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NOD
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = NOD
+	}
+
+	manpower=122544
+	buildings_max_level_factor=1.000
+}

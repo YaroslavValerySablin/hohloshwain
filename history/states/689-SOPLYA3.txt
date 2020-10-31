@@ -1,0 +1,23 @@
+state={
+	id=689
+	name="STATE_689"
+
+	manpower=933722
+
+	state_category = rural
+
+	history={
+		owner = BAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 5
+		}
+		add_core_of = BAR
+		add_core_of = BAR
+	}
+
+	provinces={
+		9203 9371 9388 9405 9421 9478 9514 9543 9591 9638 
+	}
+	buildings_max_level_factor=1.000
+}

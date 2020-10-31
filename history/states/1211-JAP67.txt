@@ -1,0 +1,21 @@
+state={
+	id=1211
+	name="STATE_1211"
+	provinces={
+		4448 4496 4536 4544 4666 
+	}
+
+        state_category = rural
+
+	history={
+		owner = SRM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 3
+		}
+		add_core_of = SRM
+	}
+	manpower=550430
+	buildings_max_level_factor=1.000
+}

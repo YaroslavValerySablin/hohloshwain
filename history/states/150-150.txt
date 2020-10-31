@@ -1,0 +1,22 @@
+
+state={
+	id=150
+	name="STATE_150"
+	provinces={
+	    20432 20455 20456 20499 20592 20593 20611 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ABR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = ABR
+	}
+
+	manpower=68586
+	buildings_max_level_factor=1.000
+}

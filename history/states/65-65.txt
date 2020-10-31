@@ -1,0 +1,22 @@
+
+state={
+	id=65
+	name="STATE_65"
+
+	history={
+		owner = KRI
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = KRI
+
+	}
+
+	provinces={
+		4817 4818 4972 5012 5118 5136 5322 5460 
+	}
+	manpower=4635287
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

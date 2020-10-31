@@ -1,0 +1,21 @@
+
+state={
+	id=378
+	name="STATE_378"
+	provinces={
+		17547 17627 17628 17776 17848 17911 17976 17990 18078 18120 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRE
+	}
+
+	manpower=498170
+	buildings_max_level_factor=1.000
+}

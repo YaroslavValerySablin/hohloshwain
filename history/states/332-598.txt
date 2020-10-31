@@ -1,0 +1,21 @@
+
+state={
+	id=332
+	name="STATE_332"
+	provinces={
+		13857 13945 14048 14296 14337 14419 14552 14662 14663 14689 14823 14838 14987 15007 15008 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PLA
+	}
+
+	manpower=1535123
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=763
+	name="STATE_763"
+	provinces={
+		13408 13409 13678 13829 13830 13900 13915 14017 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SHY	
+		add_core_of = SHY
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

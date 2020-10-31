@@ -1,0 +1,18 @@
+state={
+	id=799
+	name="STATE_799"
+	provinces={
+		18361 18362 18387 18388 18397 18457 18485 18517 18587 18613 18667 
+	}
+
+	state_category = rural
+
+	history={
+		owner = TUC	
+		add_core_of = TUC
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

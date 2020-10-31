@@ -1,0 +1,24 @@
+
+
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		18686 18767 18829 19122 
+	}
+
+	state_category = rural
+
+	history={
+		owner = LUN
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = LUN
+	}
+
+	manpower=685741
+	buildings_max_level_factor=1.000
+}

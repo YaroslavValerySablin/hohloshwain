@@ -1,0 +1,22 @@
+state={
+	id=556
+	name="STATE_556"
+	provinces={
+		10282 10283 10436 10464 10551 10607 
+	}
+
+	state_category = rural
+
+	history={
+		owner = MUS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = MUS
+	}
+
+	manpower=1254504
+	buildings_max_level_factor=1.000
+}

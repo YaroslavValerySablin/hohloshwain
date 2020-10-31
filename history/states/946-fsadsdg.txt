@@ -1,0 +1,21 @@
+state={
+	id=946
+	name="STATE_946"
+	manpower=1500000
+	state_category = rural
+	
+	history={
+		owner = YGA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+		}
+		add_core_of = YGA
+	}
+
+	provinces={
+		2083 2094 2140 2155 2187 2203 2210 2222 2280 2290 2319 2369 2408 2412 2472 
+	}
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=298
+	name="STATE_298"
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = PLA
+
+	}
+	provinces={
+		14403 14452 14580 14736 14908 14933 15041 15141 15314 15397 15398 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

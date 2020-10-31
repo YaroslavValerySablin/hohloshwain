@@ -1,0 +1,21 @@
+state={
+	id=1169
+	name="STATE_1169"
+	provinces={
+		3007 3067 3091 3097 3206 3212 3221 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = ANK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = ANK
+	}
+	manpower=9984505
+	buildings_max_level_factor=1.000
+}

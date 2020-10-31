@@ -1,0 +1,24 @@
+
+state={
+	id=588
+	name="STATE_588"
+
+	history={
+		owner = NIG
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = NIG
+
+	}
+
+	provinces={
+		13177 13178 13501 13669 13755
+	}
+	manpower=2214907
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

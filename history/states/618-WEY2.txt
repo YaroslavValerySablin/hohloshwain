@@ -1,0 +1,21 @@
+state={
+	id=618
+	name="STATE_618"
+	provinces={
+		14270 14351 14414 14509 14629 14804 14903 14961 
+	}
+
+	state_category = rural
+
+	history={
+		owner = VEY
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+		}
+		add_core_of = VEY
+	}
+
+	manpower=980756
+	buildings_max_level_factor=1.000
+}

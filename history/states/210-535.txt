@@ -1,0 +1,22 @@
+
+
+state={
+	id=210
+	name="STATE_210"
+	provinces={
+		15045 15101 15257 15275 15359 15417 15446 15526 15527 15600 15722 15749 15819 15836 
+	}
+
+	state_category = rural
+
+	history={
+		owner = DVR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = DVR
+	}
+
+	manpower=210450
+	buildings_max_level_factor=1.000
+}

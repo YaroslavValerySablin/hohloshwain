@@ -1,0 +1,22 @@
+state={
+	id=607
+	name="STATE_607"
+	provinces={
+		9014 9028 9044 9095 9108 9152 9175 9198 9319 9320 
+	}
+
+	state_category = rural
+
+	history={
+		owner = BUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = BUL
+	}
+
+	manpower=2872315
+	buildings_max_level_factor=1.000
+}

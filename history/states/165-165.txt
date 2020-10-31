@@ -1,0 +1,23 @@
+
+
+state={
+	id=165
+	name="STATE_165"
+	provinces={
+		15798 
+	}
+
+	state_category = rural
+
+	history={
+		owner = BAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		add_core_of = BAR
+	}
+
+	manpower=185741
+	buildings_max_level_factor=1.000
+}

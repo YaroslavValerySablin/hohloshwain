@@ -1,0 +1,23 @@
+
+state={
+	id=311
+	name="STATE_311"
+	provinces={
+		17742 17806 17807 18138 18189 18363 18413 18548 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ZMR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		add_core_of = ZMR
+	}
+
+	manpower=1217482
+	buildings_max_level_factor=1.000
+}

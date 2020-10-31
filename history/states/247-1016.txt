@@ -1,0 +1,22 @@
+
+
+state={
+	id=247
+	name="STATE_247"
+	provinces={
+		9531 9625 9725 9791 9874 10036 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ANT
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ANT
+	}
+
+	manpower=918234
+	buildings_max_level_factor=1.000
+}

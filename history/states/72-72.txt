@@ -1,0 +1,23 @@
+
+state={
+	id=72
+	name="STATE_72"
+
+	history={
+		owner = GAN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = GAN
+
+	}
+
+	provinces={
+		5971 6005 6046 6167 6252 6293 6333 6426 
+	}
+	manpower=4121243
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

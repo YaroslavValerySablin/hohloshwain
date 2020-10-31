@@ -1,0 +1,21 @@
+state={
+	id=533
+	name="STATE_533"
+	provinces={
+		10126 10287 10340 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NEK
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = NEK
+	}
+
+	manpower=1937543
+	buildings_max_level_factor=1.000
+}

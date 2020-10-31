@@ -1,0 +1,133 @@
+﻿capital = 10471
+oob = "ODE_0000"
+set_stability = 1
+set_war_support = 1
+set_research_slots = 3
+set_technology = {
+ infantry_weapons = 1
+ infantry_weapons1 = 1
+ tech_support = 1 
+ tech_recon = 1
+ tech_engineers = 1
+ motorised_infantry = 1
+ marines = 1
+ gw_artillery = 1
+ gwtank = 1
+ basic_light_tank = 1
+ cv_early_fighter = 1
+ cv_CAS1 = 1
+ cv_naval_bomber1 = 1
+ early_fighter = 1
+ early_fighter = 1
+ naval_bomber1 = 1
+ early_bomber = 1
+ CAS1 = 1
+ early_submarine = 1
+ basic_submarine = 1
+ early_destroyer = 1
+ early_light_cruiser = 1
+ basic_light_cruiser = 1
+ early_heavy_cruiser = 1
+ basic_heavy_cruiser = 1
+ early_battleship = 1
+ basic_battleship = 1
+ early_battlecruiser = 1
+ early_carrier = 1
+ basic_carrier = 1
+ transport = 1
+ trench_warfare = 1
+ base_strike = 1
+ synth_oil_experiments = 1
+}
+set_convoys = 500
+
+add_ideas = shef_army_buhoy
+
+set_politics = {
+ parties = {
+  burjuism = { popularity = 31 }
+  pahanism = { popularity = 56 }
+  borshewism = { popularity = 2 }
+  bidlo = { popularity = 11 }
+ }
+ ruling_party = pahanism
+ last_election = "0000.1.1"
+ election_frequency = 48
+ elections_allowed = no
+}
+create_country_leader = {
+ name = "Олежа Ляшко"
+ desc = "ULIY_DESC"
+ picture = "Lyshko2.dds"
+ expire = "1989.1.1"
+ ideology = naziborshewism
+ traits = { gey }
+}
+create_country_leader = {
+ name = "Александр Захарченко"
+ desc = "ULIY_DESC"
+ picture = "Zaharchenko.dds"
+ expire = "1989.1.1"
+ ideology = liberaha
+ traits = { hero_ato }
+}
+create_country_leader = {
+ name = "Виктор Янукович"
+ desc = "VLADIMIR_DESC"
+ picture = "Victor_Yanukovich.dds"
+ expire = "1989.1.1"
+ ideology = despopahanism
+ traits = { hero_ato }
+}
+create_country_leader = {																		
+ name = "Алексей Шевцов"
+ desc = "BABAYAGA_DESC"
+ picture = "Alexsey_Shevcov.dds"
+ expire = "1989.1.1"
+ ideology = nazi
+ traits = { youtuber consolsher }
+}
+
+create_field_marshal = {
+	name = "Порох"
+	picture = "Porox.dds"
+	traits = { defensive_doctrine }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Александр Захарченко"
+	picture = "Zaharchenko.dds"
+	traits = { trickster brilliant_strategist }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 4
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Алексей Шевцов"
+	picture = "Alexsey_Shevcov.dds"
+	traits = { trickster }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 6
+	logistics_skill = 5
+}
+
+create_corps_commander = {
+	name = "Джаба"
+	picture = "Djaba.dds"
+	traits = { }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 5
+	planning_skill = 3
+	logistics_skill = 1
+}

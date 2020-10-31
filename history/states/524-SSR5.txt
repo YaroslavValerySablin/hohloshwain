@@ -1,0 +1,21 @@
+state={
+	id=524
+	name="STATE_524"
+	provinces={
+		12172 12173 12174 12205 12227 12240 12241 12315 12403 12404 12431 12504 12521 12624 12669 
+	}
+
+	state_category = rural
+
+	history={
+		owner = CZE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = CZE
+	}
+
+	manpower=987061
+	buildings_max_level_factor=1.000
+}

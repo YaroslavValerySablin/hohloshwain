@@ -1,0 +1,1570 @@
+focus_tree = {
+	id = generic_focus
+	
+	country = {
+		factor = 1
+	}
+	
+	default = yes
+	reset_on_civilwar = no
+
+	focus = {
+		id = give_stick_to_degenerates
+		icon = GFX_goal_generic_allies_build_infantry
+		x = 14
+		y = 1
+		cost = 10
+		completion_reward = {
+			army_experience = 5
+		}
+	}
+	
+	focus = {
+		id = army_colleges
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = give_stick_to_degenerates
+		}
+		x = 14
+		y = 2
+		completion_reward = {
+			army_experience = 10
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = infantry_weapons
+			}
+		}
+	}
+	focus = {
+		id = potatoes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = army_colleges
+		}
+		x = 14
+		y = 3
+		completion_reward = {
+			army_experience = 5
+			add_stability = -0.05
+			add_war_support = -0.05
+		}
+	}
+	focus = {
+		id = omfg_missions
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = potatoes
+		}
+		x = 14
+		y = 4
+		completion_reward = {
+			army_experience = 5
+			add_stability = -0.05
+		}
+	}
+	focus = {
+		id = power_superior_officer
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = omfg_missions
+		}
+		x = 14
+		y = 5
+		completion_reward = {
+			army_experience = 25
+			add_ideas = superior_officer
+		}
+	}
+	focus = {
+		id = improve_equip
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = power_superior_officer
+		}
+		x = 13
+		y = 6
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = infantry_weapons
+			}
+		}
+	}
+	focus = {
+		id = make_mortars
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = improve_equip
+		}
+		x = 13
+		y = 7
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = artillery
+			}
+		}
+	}
+	focus = {
+		id = improve_mortars
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = make_mortars
+		}
+		x = 11
+		y = 8
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = artillery
+			}
+		}
+	}
+	focus = {
+		id = superior_firepower
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = make_mortars
+		}
+		x = 13
+		y = 8
+		completion_reward = {
+			add_ideas = superior_firepower
+		}
+	}
+	focus = {
+		id = cannon_fodder_doctrine
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = superior_firepower
+		}
+		prerequisite = {
+			focus = improve_mortars
+		}
+		mutually_exclusive = {
+			focus = mobile_doctrine
+		}
+		x = 13
+		y = 9
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cat_superior_firepower
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cat_mass_assault
+			}			
+		}
+	}
+	focus = {
+		id = craft_UAZik
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = power_superior_officer
+		}
+		x = 15
+		y = 6
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.5
+				uses = 1
+				category = motorized_equipment
+			}
+		}
+	}
+	focus = {
+		id = tanks_online
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = craft_UAZik
+		}
+		x = 15
+		y = 7
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = armor
+			}
+		}
+	}
+	focus = {
+		id = PENETRATION
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = tanks_online
+		}
+		x = 15
+		y = 8
+		completion_reward = {
+			add_ideas = penetration
+		}
+	}
+	focus = {
+		id = stole_abramses
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = tanks_online
+		}
+		x = 17
+		y = 8
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = armor
+			}
+		}
+	}
+	focus = {
+		id = mobile_doctrine
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = PENETRATION
+		}
+		prerequisite = {
+			focus = stole_abramses
+		}
+		mutually_exclusive = {
+			focus = cannon_fodder_doctrine
+		}
+		x = 15
+		y = 9
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cat_mobile_warfare
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cat_grand_battle_plan
+			}			
+		}
+	}
+	focus = {
+		id = form_OMON
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = cannon_fodder_doctrine
+			focus = mobile_doctrine
+		}
+		x = 14
+		y = 10
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = support_tech
+			}
+		}
+	}
+	focus = {
+		id = which_ships
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = army_colleges
+		}
+		x = 11
+		y = 4
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = naval_equipment
+			}
+		}
+	}
+	focus = {
+		id = big_ships
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = which_ships
+		}
+		mutually_exclusive = {
+			focus = small_ships
+		}
+		x = 10
+		y = 5
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = cv_tech
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = bb_tech
+			}
+		}
+	}
+	focus = {
+		id = small_ships
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = which_ships
+		}
+		mutually_exclusive = {
+			focus = big_ships
+		}
+		x = 12
+		y = 5
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = cl_tech
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = ss_tech
+			}
+		}
+	}
+	focus = {
+		id = premium_cruisers
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = big_ships
+		}
+		x = 9
+		y = 6
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cl_tech
+			}
+		}
+	}
+	focus = {
+		id = kuzia_project
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = premium_cruisers
+		}
+		x = 8
+		y = 7
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = cv_tech
+			}
+		}
+	}
+	focus = {
+		id = u_boats_yeee
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = small_ships
+		}
+		x = 11
+		y = 6
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = ss_tech
+			}
+		}
+	}
+	focus = {
+		id = ships_defenders
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = u_boats_yeee
+		}
+		x = 10
+		y = 7
+		completion_reward = {
+			navy_experience = 15
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = dd_tech
+			}
+		}
+	}
+	focus = {
+		id = paper_planes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = army_colleges
+		}
+		x = 17
+		y = 4
+		completion_reward = {
+			air_experience = 25
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = air_equipment
+			}
+		}
+	}
+	focus = {
+		id = fast_planes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = paper_planes
+		}
+		mutually_exclusive = {
+			focus = fat_planes
+		}
+		x = 16
+		y = 5
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = light_fighter
+			}
+		}
+	}
+	focus = {
+		id = fat_planes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = paper_planes
+		}
+		mutually_exclusive = {
+			focus = fast_planes
+		}
+		x = 18
+		y = 5
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = tactical_bomber
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = cat_strategic_bomber
+			}
+		}
+	}
+	focus = {
+		id = cas_planes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = fast_planes
+			focus = fat_planes
+		}
+		x = 17
+		y = 6
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = cas_bomber
+			}
+		}
+	}
+	focus = {
+		id = death_to_ships
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = fast_planes
+			focus = fat_planes
+		}
+		x = 19
+		y = 6
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = naval_bomber
+			}
+		}
+	}
+	focus = {
+		id = stole_rockets_blueprints
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = death_to_ships
+		}
+		prerequisite = {
+			focus = cas_planes
+		}
+		x = 18
+		y = 7
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = rocketry
+			}
+		}
+	}
+	focus = {
+		id = so_bad_economy
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		x = 25
+		y = 1
+		completion_reward = {
+			add_political_power = -20
+			add_stability = -0.05
+		}
+	}
+	focus = {
+		id = repair_roads_1
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = so_bad_economy
+		}
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 1
+					instant_build = yes
+				}
+			}
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 1
+					instant_build = yes
+				}
+			}
+		}	
+		x = 25
+		y = 2
+	}
+	focus = {
+		id = work_lazy_ass
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = repair_roads_1
+		}
+		x = 25
+		y = 3
+		completion_reward = {
+			add_timed_idea = {
+				idea = work_lazy_ass
+				days = 730
+			}
+		}
+	}
+	focus = {
+		id = back_to_the_school
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = work_lazy_ass
+		}
+		x = 22
+		y = 4
+		completion_reward = {
+			add_ideas = back_to_the_school
+		}
+	}
+	focus = {
+		id = technarskiy_musor
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = back_to_the_school
+		}
+		mutually_exclusive = {
+			focus = gumanitarny_musor
+		}
+		x = 21
+		y = 5
+		completion_reward = {
+			add_ideas = technarskiy_musor_1
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = electronics
+			}
+		}
+	}
+	focus = {
+		id = gumanitarny_musor
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = back_to_the_school
+		}
+		mutually_exclusive = {
+			focus = technarskiy_musor
+		}
+		x = 23
+		y = 5
+		completion_reward = {
+			add_ideas = gumanitarny_musor_1
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = industry
+			}
+		}
+	}
+	focus = {
+		id = buy_computers
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = technarskiy_musor
+		}
+		x = 21
+		y = 6
+		completion_reward = {
+			swap_ideas = {
+				remove_idea = technarskiy_musor_1
+				add_idea = technarskiy_musor_2
+			}
+			add_political_power = -100
+		}
+	}
+	focus = {
+		id = read_Pushkin
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = gumanitarny_musor
+		}
+		x = 23
+		y = 6
+		completion_reward = {
+			swap_ideas = {
+				remove_idea = gumanitarny_musor_1
+				add_idea = gumanitarny_musor_2
+			}
+			add_political_power = -100
+		}
+	}
+	focus = {
+		id = exam_pupils
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = read_Pushkin
+			focus = buy_computers
+		}
+		x = 22
+		y = 7
+		completion_reward = {
+			add_ideas = exam_pupils
+			add_political_power = 100
+		}
+	}
+	focus = {
+		id = TERMOYADERNY_SNUS
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = exam_pupils
+		}
+		x = 22
+		y = 8
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = nuclear
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = rocketry
+			}
+		}
+	}
+	focus = {
+		id = slot
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = exam_pupils
+		}
+		x = 24
+		y = 8
+		completion_reward = {
+			add_research_slot = 1
+		}
+	}
+	focus = {
+		id = NEW_SLOT
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = slot
+		}
+		x = 24
+		y = 9
+		completion_reward = {
+			add_research_slot = 1
+		}
+	}
+	focus = {
+		id = repair_roads_2
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = work_lazy_ass
+		}
+		x = 25
+		y = 4
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+	}
+	focus = {
+		id = vodka_factory
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = repair_roads_2
+		}
+		x = 25
+		y = 5
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+	}
+	focus = {
+		id = snaks_factory
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = vodka_factory
+		}
+		x = 26
+		y = 6
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+	}
+	focus = {
+		id = industrialization
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = snaks_factory
+		}
+		x = 26
+		y = 7
+		completion_reward = {
+			add_ideas = industrialization
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 2
+				category = industry
+			}
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = infrastructure
+						size > 0
+					}
+					OR = {
+						is_in_home_area = yes
+						NOT = {
+							owner = {
+								any_owned_state = {
+									free_building_slots = {
+										building = infrastructure
+										size > 0
+									}
+									is_in_home_area = yes
+								}
+							}
+						}
+					}
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+	}
+	focus = {
+		id = mine_so_deep_cave
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = industrialization
+		}
+		x = 26
+		y = 8
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = industrial_complex
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+			add_ideas = mine_so_deep_cave
+		}
+	}
+	focus = {
+		id = open_sex_shops
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = work_lazy_ass
+		}
+		x = 27
+		y = 4
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = arms_factory
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = arms_factory
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+	}
+	focus = {
+		id = fire_dildoes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = open_sex_shops
+		}
+		x = 27
+		y = 5
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = arms_factory
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = arms_factory
+					level = 1
+					instant_build = yes
+				}
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = infantry_weapons
+			}
+		}
+	}
+	focus = {
+		id = sex_clothes
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = fire_dildoes
+		}
+		x = 28
+		y = 6
+		completion_reward = {
+			random_owned_controlled_state = {
+				limit = {
+					free_building_slots = {
+						building = arms_factory
+						size > 1
+						include_locked = yes
+					}
+				}
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = arms_factory
+					level = 1
+					instant_build = yes
+				}
+			}
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = infantry_weapons
+			}
+		}
+	}
+	focus = {
+		id = visit_public
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		x = 33
+		y = 1
+		completion_reward = {
+			add_stability = -0.05
+			add_war_support = 0.05
+		}
+	}
+	focus = {
+		id = politsrach
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = visit_public
+		}
+		x = 33
+		y = 2
+		completion_reward = {
+			add_stability = -0.05
+		}
+	}
+	focus = {
+		id = stado_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = politsrach
+		}
+		mutually_exclusive = {
+			focus = young_wins
+		}
+		x = 31
+		y = 3
+		completion_reward = {
+			add_popularity = {
+				ideology = borshewism
+				popularity = 0.1
+			}
+			add_popularity = {
+				ideology = pahanism
+				popularity = 0.1
+			}
+		}
+	}
+	focus = {
+		id = young_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = politsrach
+		}
+		mutually_exclusive = {
+			focus = stado_wins
+		}
+		x = 35
+		y = 3
+		completion_reward = {
+			add_popularity = {
+				ideology = bidlo
+				popularity = 0.1
+			}
+			add_popularity = {
+				ideology = burjuism
+				popularity = 0.1
+			}
+		}
+	}
+	focus = {
+		id = apolit_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = stado_wins
+		}
+		mutually_exclusive = {
+			focus = leftist_wins
+		}
+		x = 30
+		y = 4
+		completion_reward = {
+			add_popularity = {
+				ideology = pahanism
+				popularity = 0.1
+			}
+			set_politics = {
+				ruling_party = pahanism
+			}
+		}
+	}
+	focus = {
+		id = leftist_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = stado_wins
+		}
+		mutually_exclusive = {
+			focus = apolit_wins
+		}
+		x = 32
+		y = 4
+		completion_reward = {
+			add_popularity = {
+				ideology = borshewism
+				popularity = 0.1
+			}
+			set_politics = {
+				ruling_party = borshewism
+			}
+		}
+	}
+	focus = {
+		id = football_forever
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = apolit_wins
+		}
+		x = 30
+		y = 5
+		completion_reward = {
+			add_ideas = football_forever
+		}
+	}
+	focus = {
+		id = cooperate_with_mafia
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = football_forever
+		}
+		x = 30
+		y = 6
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.0
+				uses = 1
+				category = infantry_weapons
+			}
+			add_ideas = mafia
+		}
+	}
+	focus = {
+		id = politics_not_for_young_minds
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = cooperate_with_mafia
+		}
+		x = 30
+		y = 7
+		completion_reward = {
+			add_popularity = {
+				ideology = pahanism
+				popularity = 0.1
+			}
+		}
+	}
+	focus = {
+		id = radical_centrism
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = politics_not_for_young_minds
+		}
+		x = 30
+		y = 8
+		completion_reward = {
+			add_ideas = radical_centrism
+		}
+	}
+	focus = {
+		id = lenin_books
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = leftist_wins
+		}
+		x = 32
+		y = 5
+		completion_reward = {
+			add_ideas = diamat
+		}
+	}
+	focus = {
+		id = kolkhozniks
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = lenin_books
+		}
+		x = 32
+		y = 6
+		completion_reward = {
+			add_ideas = kolkhozniks
+		}
+	}
+	focus = {
+		id = shoot_pederastians
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = kolkhozniks
+		}
+		x = 32
+		y = 7
+		completion_reward = {
+			add_stability = -0.05
+			add_war_support = 0.10
+		}
+	}
+	focus = {
+		id = politcorrect_zombies
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = shoot_pederastians
+		}
+		x = 32
+		y = 8
+		completion_reward = {
+			add_ideas = army_of_leftists
+		}
+	}
+	focus = {
+		id = atlants_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = young_wins
+		}
+		mutually_exclusive = {
+			focus = skins_wins
+		}
+		x = 34
+		y = 4
+		completion_reward = {
+			add_popularity = {
+				ideology = burjuism
+				popularity = 0.1
+			}
+			set_politics = {
+				ruling_party = burjuism
+			}
+		}
+	}
+	focus = {
+		id = skins_wins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = young_wins
+		}
+		mutually_exclusive = {
+			focus = atlants_wins
+		}
+		x = 36
+		y = 4
+		completion_reward = {
+			add_popularity = {
+				ideology = bidlo
+				popularity = 0.1
+			}
+			set_politics = {
+				ruling_party = bidlo
+			}
+		}
+	}
+	focus = {
+		id = privatization
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = atlants_wins
+		}
+		x = 34
+		y = 5
+		completion_reward = {
+			add_ideas = privatization
+		}
+	}
+	focus = {
+		id = workers_in_McDonalds
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = privatization
+		}
+		x = 34
+		y = 6
+		completion_reward = {
+			add_ideas = McDonalds
+		}
+	}
+	focus = {
+		id = CHVK_dream
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = workers_in_McDonalds
+		}
+		x = 34
+		y = 7
+		completion_reward = {
+			add_ideas = CHVK_dream
+		}
+	}
+	focus = {
+		id = free_market
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = CHVK_dream
+		}
+		x = 34
+		y = 8
+		completion_reward = {
+			add_stability = 0.05
+			add_war_support = 0.05
+			add_popularity = {
+				ideology = burjuism
+				popularity = 0.2
+			}
+		}
+	}
+	focus = {
+		id = pogrom_books
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = skins_wins
+		}
+		x = 36
+		y = 5
+		completion_reward = {
+			add_ideas = czar_books
+		}
+	}
+	focus = {
+		id = gypsy_money
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = pogrom_books
+		}
+		x = 36
+		y = 6
+		completion_reward = {
+			add_political_power = 200
+			add_stability = 0.05
+		}
+	}
+	focus = {
+		id = bidloism
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = gypsy_money
+		}
+		x = 36
+		y = 7
+		completion_reward = {
+			add_ideas = bidloism
+		}
+	}
+	focus = {
+		id = army_of_skins
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = bidloism
+		}
+		x = 36
+		y = 8
+		completion_reward = {
+			add_ideas = army_of_skins
+		}
+	}
+	focus = {
+		id = f_r_i_e_n_d_s
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = radical_centrism
+			focus = politcorrect_zombies
+			focus = free_market
+			focus = army_of_skins
+		}
+		x = 33
+		y = 9
+		completion_reward = {
+			set_rule = {
+				can_create_factions = yes 
+			}
+		}
+	}
+	focus = {
+		id = autism_in_alliance
+		icon = GFX_goal_generic_small_arms
+		cost = 10
+		prerequisite = {
+			focus = f_r_i_e_n_d_s
+		}
+		available = {
+			is_in_faction = yes
+			OR = {
+				num_of_factories > 50
+				any_other_country = {
+					is_in_faction_with = ROOT
+					num_of_factories > 50
+				}
+			}
+		}
+		x = 33
+		y = 10
+		completion_reward = {
+			add_tech_bonus = {
+				bonus = 1.75
+				uses = 1
+				category = industry
+			}
+			add_tech_bonus = {
+				bonus = 0.75
+				uses = 1
+				category = industry
+			}
+			add_tech_bonus = {
+				bonus = 1.75
+				uses = 1
+				category = electronics
+			}
+			add_tech_bonus = {
+				bonus = 0.75
+				uses = 1
+				category = electronics
+			}
+		}
+	}
+}

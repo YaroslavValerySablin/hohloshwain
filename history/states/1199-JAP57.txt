@@ -1,0 +1,23 @@
+
+state={
+	id=1199
+	name="STATE_1199"
+	provinces={
+		3949 4008 4095 
+	}
+
+
+        state_category = rural
+
+	history={
+		owner = HIR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = HIR
+	}
+	manpower=695430
+	buildings_max_level_factor=1.000
+}

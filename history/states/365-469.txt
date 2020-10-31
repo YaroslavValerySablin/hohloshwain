@@ -1,0 +1,21 @@
+
+state={
+	id=365
+	name="STATE_365"
+	provinces={
+		15524 15815 15853 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRE
+	}
+
+	manpower=354142
+	buildings_max_level_factor=1.000
+}

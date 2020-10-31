@@ -1,0 +1,23 @@
+
+state={
+	id=23
+	name="STATE_23"
+	provinces={
+		8428 8498 8513 8527 8533 8559 8582 8626 
+	}
+
+	state_category = rural
+
+	history={
+		owner = MOU
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 3
+		}
+		add_core_of = MOU
+	}
+
+	manpower=7563421
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=974
+	name="STATE_974"
+	manpower=1500000
+	state_category = rural
+	
+	history={
+		owner = TAG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+		}
+		add_core_of = TAG
+	}
+	provinces={
+		2723 2750 2806 2838 2852 2903 2950 
+	}
+	buildings_max_level_factor=1.000
+}

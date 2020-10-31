@@ -1,0 +1,23 @@
+
+state={
+	id=59
+	name="STATE_59"
+	provinces={
+		5608 5609 5643 5752 5810 5898 5899 5957 5993 5994 6022 6078 6092 6232 6241 6242 6295 6336 6390 6427 6428 6538 6583 6584 6648 6661 6671 6697 6738 6803 6817 6904 6976 7017 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PPT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+			arms_factory = 4
+		}
+		add_core_of = PPT
+	}
+
+	manpower=4127418
+	buildings_max_level_factor=1.000
+}

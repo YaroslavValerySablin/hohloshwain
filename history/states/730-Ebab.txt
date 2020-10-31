@@ -1,0 +1,25 @@
+
+state={
+	id=730
+	name="STATE_730"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = 1AZ
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = 1AZ
+	}
+
+	provinces={
+		10555 10641 10674 10738 10779 10843 10921 10942 
+	}
+}

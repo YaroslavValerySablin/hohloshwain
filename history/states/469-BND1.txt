@@ -1,0 +1,37 @@
+
+
+
+state={
+	id=469
+	name="STATE_469"
+	manpower = 1488101
+	
+	resources={
+		
+	}
+	
+	state_category = city
+	
+	history={
+		owner = ZPU
+		
+		
+		
+		buildings = {
+		        infrastructure = 5
+			industrial_complex = 2 
+			arms_factory = 3
+			
+		add_core_of = ZPU
+	}
+	
+    }
+	
+	provinces={    		
+     	  11730 11789 11903 11926 12028 12176 12177 12207 12316 12383 12453 
+ 	} 
+ }
+
+
+
+

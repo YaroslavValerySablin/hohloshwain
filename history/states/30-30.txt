@@ -1,0 +1,21 @@
+state={
+	id=30
+	name="STATE_30"
+	provinces={
+		8106 8110 8173 8214 8222 8310 8317 8330 8360 8402 8403 8412 8440 8484 8522 8529 8576 
+	}
+
+	state_category = rural
+
+	history={
+		owner = TRK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = TRK
+	}
+
+	manpower=2035241
+	buildings_max_level_factor=1.000
+}

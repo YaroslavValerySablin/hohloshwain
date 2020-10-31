@@ -1,0 +1,22 @@
+
+state={
+	id=384
+	name="STATE_384"
+	provinces={
+		18262 18277 18290 18301 18398 18441 18496 18533 18534 18615 18653 18661 18691 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = PRE
+	}
+
+	manpower=4176472
+	buildings_max_level_factor=1.000
+}

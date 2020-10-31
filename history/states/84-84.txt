@@ -1,0 +1,22 @@
+
+state={
+	id=84
+	name="STATE_84"
+	provinces={
+		4186 4231 4296 4309 4377 4508 
+	}
+
+	state_category = rural
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = RAJ
+	}
+
+	manpower=7524134
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=666
+	name="STATE_666"
+	provinces={
+		13603 13648 13828 13852 13853 13991 14042 14043 14096 14148 14246 14247 14316 
+	}
+
+	history={
+		owner = RNS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4		
+		add_core_of = RNS
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

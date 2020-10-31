@@ -1,0 +1,18 @@
+state={
+	id=492
+	name="STATE_492"
+	provinces={
+		10653 10795 10825 10917 11010 11128 11190 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ROA	
+		add_core_of = ROA
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

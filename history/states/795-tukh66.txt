@@ -1,0 +1,21 @@
+state={
+	id=795
+	name="STATE_795"
+	provinces={
+		18073 18160 18204 18286 18287 18298 18360 18396 18424 
+	}
+
+	history={
+		owner = NAP
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4		
+		add_core_of = NAP
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1221
+	name="STATE_1221"
+	provinces={
+		20654 
+	}
+
+        state_category = rural
+
+	history={
+		owner = BAS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 6
+			industrial_complex = 2
+		}
+		add_core_of = BAS
+	}
+
+	manpower=300500200
+	buildings_max_level_factor=1.000
+}

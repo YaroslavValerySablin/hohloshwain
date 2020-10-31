@@ -1,0 +1,23 @@
+
+state={
+	id=307
+	name="STATE_307"
+	provinces={
+		18520 18591 18624 18634 18756 18757 18763 18872 18873 18893 18904 18940 19017 
+	}
+
+	state_category = rural
+
+	history={
+		owner = BSK
+		buildings = {
+			infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = BSK
+	}
+
+	manpower=3387542
+	buildings_max_level_factor=1.000
+}

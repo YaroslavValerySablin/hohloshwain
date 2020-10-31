@@ -1,0 +1,21 @@
+state={
+	id=1179
+	name="STATE_1179"
+	provinces={
+		2987 3014 3086 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = HVF
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = HVF
+	}
+	manpower=222270400
+	buildings_max_level_factor=1.000
+}

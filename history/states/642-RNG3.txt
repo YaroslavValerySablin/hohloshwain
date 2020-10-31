@@ -1,0 +1,21 @@
+state={
+	id=642
+	name="STATE_642"
+	provinces={
+		16917 16958 16959 17012 17058 17128 17192 17193 17251 17314 17338 17356 17372 17422 17488 17508 17590 
+	}
+
+	history={
+		owner = BLO
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4	
+		add_core_of = BLO
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,78 @@
+capital = 958
+
+oob = "DKC_0000"
+
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.6
+set_war_support = 0.6
+
+
+set_technology = {
+
+}
+
+add_ideas = {
+	trotskyite_plot
+	home_of_revolution
+}
+
+set_politics = {
+	ruling_party = borshewism
+	last_election = "0000.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
+}
+
+set_popularities = {
+	burjuism = 20
+	borshewism = 60
+	bidlo = 10
+	pahanism = 5
+	putinism = 5
+}
+
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_MONIKA_DESC"
+	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	expire = "9999.3.1"
+	ideology = naziborshewism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_MONIKA_DESC"
+	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	expire = "9999.3.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_MONIKA_DESC"
+	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	expire = "9999.3.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_MONIKA_DESC"
+	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	expire = "9999.3.1"
+	ideology = putinism
+	traits = {
+		
+	}
+}

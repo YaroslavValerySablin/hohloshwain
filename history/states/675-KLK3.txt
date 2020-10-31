@@ -1,0 +1,24 @@
+state={
+	id=675
+	name="STATE_675"
+
+	manpower=1337228
+
+	state_category = rural
+
+	history={
+		owner = NJS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		add_core_of = NJS
+		add_core_of = NJS
+	}
+
+	provinces={
+		12088 12158 12247 12248 12318 12319 12339 12340 12460 12507 12508 12557 12558 12651 12677 12700 12762 12788 12914 12915 12940 13096 
+	}
+	buildings_max_level_factor=1.000
+}

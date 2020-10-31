@@ -1,0 +1,18 @@
+state={
+	id=659
+	name="STATE_659"
+	provinces={
+		15437 15489 15611 15648 15688 15794 15808 15886 15909 15927 16036 16037 
+	}
+
+	state_category = rural
+
+	history={
+		owner = RNS	
+		add_core_of = RNS
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

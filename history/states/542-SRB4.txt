@@ -1,0 +1,22 @@
+state={
+	id=542
+	name="STATE_542"
+	provinces={
+		10031 10092 10127 10140 10174 10236 10269 10270 10306 10343 10448 10500 10533 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SRB
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = SRB
+	}
+
+	manpower=6521245
+	buildings_max_level_factor=1.000
+}

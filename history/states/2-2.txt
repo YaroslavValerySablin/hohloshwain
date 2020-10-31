@@ -1,0 +1,23 @@
+
+state={
+	id=2
+	name="STATE_2"
+	provinces={
+		6761 7093 7163 7249 7435 
+	}
+
+	state_category = rural
+
+	history={
+		owner = JES
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = JES
+	}
+
+	manpower=1342124
+	buildings_max_level_factor=1.000
+}

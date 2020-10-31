@@ -1,0 +1,18 @@
+state={
+	id=822
+	name="STATE_822"
+	provinces={
+		17489 17513 17592 17625 17702 17725 17819 17832 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GON	
+		add_core_of = GON
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

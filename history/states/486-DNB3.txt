@@ -1,0 +1,18 @@
+state={
+	id=486
+	name="STATE_486"
+	provinces={
+		11687 11793 11819 11864 11929 11966 12009 12058 12059 12087 12209 12269 12292 12317 12457 
+	}
+
+	state_category = rural
+
+	history={
+		owner = DNB	
+		add_core_of = DNB
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

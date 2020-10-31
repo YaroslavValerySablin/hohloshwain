@@ -1,0 +1,21 @@
+state={
+	id=944
+	name="STATE_944"
+	manpower=980000
+	state_category = rural
+	
+	history={
+		owner = PTL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = PTL
+	}
+	provinces={
+		2456 2457 2466 2480 2511 2514 2529 2551 2552 2559 2583 2640 
+	}
+	buildings_max_level_factor=1.000
+}

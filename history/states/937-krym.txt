@@ -1,0 +1,23 @@
+state={
+	id=937
+	name="STATE_937"
+
+	manpower=713524
+
+	state_category = rural
+
+	history={
+		owner = WAD
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = WAD
+		add_core_of = WAD
+	}
+
+	provinces={
+		3829 3846 3850 3851 3915 4011 4036 4045 4105 
+	}
+	buildings_max_level_factor=1.000
+}

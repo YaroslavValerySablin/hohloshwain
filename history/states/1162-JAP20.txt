@@ -1,0 +1,22 @@
+state={
+	id=1162
+	name="STATE_1162"
+	provinces={
+		3240 3322 
+	}
+
+
+        state_category = rural
+ 
+	history={
+		owner = GRB
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = GRB
+	}
+	manpower=800650
+	buildings_max_level_factor=1.000
+}

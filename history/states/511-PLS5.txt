@@ -1,0 +1,22 @@
+state={
+	id=511
+	name="STATE_511"
+	provinces={
+		13282 13330 13453 13504 13505 13529 13645 13673 13698 
+	}
+
+	state_category = rural
+
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = POL
+	}
+
+	manpower=1910853
+	buildings_max_level_factor=1.000
+}

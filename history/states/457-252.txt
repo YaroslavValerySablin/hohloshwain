@@ -1,0 +1,22 @@
+
+state={
+	id=457
+	name="STATE_457"
+	provinces={
+		18643 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = PRE
+	}
+
+	manpower=212445
+	buildings_max_level_factor=1.000
+}

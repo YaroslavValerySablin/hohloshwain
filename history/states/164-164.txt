@@ -1,0 +1,22 @@
+
+state={
+	id=164
+	name="STATE_164"
+	provinces={
+		16592 16731 16732 16986 17112 
+	}
+
+	state_category = rural
+
+	history={
+		owner = BAR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		add_core_of = BAR
+	}
+
+	manpower=66852
+	buildings_max_level_factor=1.000
+}

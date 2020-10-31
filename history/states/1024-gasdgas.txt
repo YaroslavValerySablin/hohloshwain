@@ -1,0 +1,18 @@
+state={
+	id=1024
+	name="STATE_1024"
+	manpower=890000
+	state_category = rural
+	
+	history={
+		owner = VLS
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = VLS
+	}
+	provinces={
+		1206 1213 1227 1234 1271 1302 1336 1347 1364 1394 1396 
+	}
+	buildings_max_level_factor=1.000
+}

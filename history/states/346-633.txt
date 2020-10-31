@@ -1,0 +1,21 @@
+state={
+	id=346
+	name="STATE_346"
+
+	state_category = rural
+
+	history={
+		owner = NRT
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = NRT
+	}
+
+	provinces={
+		13343 13369 13513 13539 13727 13922 13947 13996 14101 14227 14300 14319 14383 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=1145
+	name="STATE_1145"
+	provinces={
+		2885 2968 2985 2999 3057 3132 3140 
+	}
+
+        state_category = rural
+
+        history = {
+		owner = 3NA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = 3NA
+	}
+	manpower= 9800400
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1205
+	name="STATE_1205"
+	provinces={
+		3742 3824 3890 
+	}
+
+
+        state_category = rural
+
+	history={
+		owner = GCH
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = GCH
+	}
+	manpower=359400
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,508 @@
+ideas = {
+	
+	country = {
+	
+		penetration = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				army_armor_attack_factor = 0.05
+			}			
+		}
+		
+		superior_firepower = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				army_artillery_attack_factor = 0.05
+			}			
+		}
+		
+		work_lazy_ass = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				stability_factor = 0.05
+				war_support_factor = 0.05
+				industrial_capacity_factory = 0.1
+				production_speed_buildings_factor = 0.05
+				production_factory_max_efficiency_factor = 0.05
+				production_factory_efficiency_gain_factor = 0.05
+				supply_consumption_factor = -0.10
+			}			
+		}
+		
+		back_to_the_school = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				political_power_gain = 0.05
+				research_speed_factor = 0.05
+			}			
+		}
+		
+		technarskiy_musor_1 = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				war_support_factor = 0.05
+				research_speed_factor = 0.05
+			}			
+		}
+		
+		gumanitarny_musor_1 = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				stability_factor = 0.1
+				research_speed_factor = 0.02
+				political_power_gain = 0.5
+			}			
+		}
+		
+		technarskiy_musor_2 = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				war_support_factor = 0.1
+				research_speed_factor = 0.1
+			}			
+		}
+		
+		gumanitarny_musor_2 = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				stability_factor = 0.2
+				research_speed_factor = 0.04
+				political_power_gain = 1.0
+			}			
+		}
+		
+		exam_pupils = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				war_support_factor = 0.05
+			}			
+		}
+		
+		football_forever = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				political_power_gain = 0.2
+				pahanism_drift = 0.05
+				stability_factor = 0.1
+				war_support_factor = -0.05
+				consumer_goods_factor = 0.05
+				conscription = -0.005
+			}			
+		}
+		
+		mafia = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				political_power_gain = 0.3
+				stability_factor = -0.05
+			}			
+		}
+		
+		radical_centrism = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				war_support_factor = 0.2
+				conscription = 0.01
+				army_attack_factor = 0.15
+				army_defence_factor = 0.15
+				attrition = -0.15
+			}			
+		}
+		
+		diamat = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				borshewism_drift = 0.05
+				war_support_factor = 0.1
+				stability_factor = 0.1
+				conscription = 0.005
+			}	
+		}
+		
+		kolkhozniks = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				industrial_capacity_factory = 0.1
+				production_factory_max_efficiency_factor = 0.05
+				production_factory_efficiency_gain_factor = 0.05
+				war_support_factor = -0.05
+				stability_factor = -0.05
+				conscription = 0.01
+				consumer_goods_factor = 0.02
+			}	
+		}
+		
+		army_of_leftists = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				conscription = 0.02
+				army_attack_factor = 0.1
+				army_defence_factor = 0.1
+				consumer_goods_factor = -0.03
+				attrition = -0.2
+			}	
+		}
+		
+		privatization = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				industrial_capacity_factory = 0.1
+				production_factory_max_efficiency_factor = 0.05
+				production_factory_efficiency_gain_factor = 0.05
+				war_support_factor = -0.05
+				stability_factor = -0.05
+				political_power_gain = 0.2
+				consumer_goods_factor = -0.02
+			}	
+		}
+		
+		McDonalds = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				industrial_capacity_factory = 0.1
+				production_factory_max_efficiency_factor = 0.05
+				production_factory_efficiency_gain_factor = 0.05
+				conscription = -0.005
+				political_power_gain = 0.15
+				consumer_goods_factor = -0.05
+			}	
+		}
+		
+		CHVK_dream = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				war_support_factor = 0.15
+				attrition = -0.2
+				army_attack_factor = 0.15
+				army_defence_factor = 0.15
+				training_time_army_factor = -0.1
+			}	
+		}
+		
+		czar_books = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				bidlo_drift = 0.1
+				stability_factor = 0.1
+				war_support_factor = 0.1
+				army_attack_factor = 0.05
+			}	
+		}
+		
+		bidloism = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				bidlo_drift = 0.1
+				stability_factor = -0.1
+				war_support_factor = 0.25
+				army_attack_factor = 0.15
+				army_defence_factor = -0.1
+				conscription = 0.02
+			}	
+		}
+		
+		army_of_skins = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				bidlo_drift = 0.05
+				war_support_factor = 0.1
+				army_attack_factor = 0.15
+				army_defence_factor = -0.15
+				conscription = 0.025
+			}	
+		}
+		
+		industrialization = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				production_speed_buildings_factor = 0.2
+				stability_factor = -0.05
+				war_support_factor = -0.1
+				conscription = -0.005
+			}	
+		}
+		
+		mine_so_deep_cave = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				local_resources_factor = 0.2
+			}	
+		}
+		
+		superior_officer = {
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+
+			picture = generic_intel_bonus
+			
+			modifier = {
+				experience_gain_army = 0.1
+				planning_speed = 0.25
+				max_planning = 0.25
+				training_time_army_factor = -0.1
+			}	
+		}
+	}
+}	

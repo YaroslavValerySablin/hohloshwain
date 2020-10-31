@@ -1,0 +1,4 @@
+BL9 = "countries/BLYATB.txt"
+FCK = "countries/FUCKINGSLAVE.txt"
+KOK = "countries/KAKASHKA.txt"
+GOM = "countries/GOMOSEKS.txt"

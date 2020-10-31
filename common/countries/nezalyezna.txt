@@ -1,0 +1,5 @@
+graphical_culture = eastern_european_gfx
+graphical_culture_2d = eastern_european_2d
+
+color = hex { 0x9ea813 }
+color_ui = hex { 0x9ea813 }

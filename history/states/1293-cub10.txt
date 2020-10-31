@@ -1,0 +1,23 @@
+
+state={
+	id=1293
+	name="STATE_1293"
+
+	history={
+		owner = CUB
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = CUB
+
+	}
+
+	provinces={
+		1943 1988 1993 1994 2013 2018 2035 2040 2040 2080 2091 2100 2158 2159 
+	}
+	manpower=1353109
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=348
+	name="STATE_348"
+	provinces={
+		12897 12898 12967 12992 13123 13217 13245 13265 13266 13314 13385 13556 13583 13628 13629 13681 13710 13903 13948 13971 14021 14228 14252 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NRT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 6
+		}
+		add_core_of = NRT
+	}
+
+	manpower=666666
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=1190
+	name="STATE_1190"
+	provinces={
+		3159 3247 3256 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = TRP
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = TRP
+	}
+	manpower=250900
+	buildings_max_level_factor=1.000
+}

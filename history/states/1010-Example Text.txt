@@ -1,0 +1,20 @@
+state={
+	id=1010
+	name="STATE_1010"
+	manpower=1500000
+	state_category = rural
+	
+	history={
+		owner = ZIM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = ZIM
+	}
+	provinces={
+		1972 1979 1980 2036 2062 2111 2133 2160 2194 2200 2201 2252 
+	}
+	buildings_max_level_factor=1.000
+}

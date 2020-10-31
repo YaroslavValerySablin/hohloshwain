@@ -1,0 +1,23 @@
+
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		3593 3605 3719 3725 3773 3840 3849 3907 3928 
+	}
+
+	state_category = rural
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = RAJ 
+	}
+
+	manpower=7798402
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=37
+	name="STATE_37"
+	provinces={
+		6678 6715 6735 6889 6915 6916 7015 7082 7108 7109 7194 7259 7316 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ISL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = ISL
+	}
+
+	manpower=1742571
+	buildings_max_level_factor=1.000
+}

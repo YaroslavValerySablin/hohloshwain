@@ -1,0 +1,23 @@
+state={
+	id=863
+	name="STATE_863"
+
+	manpower=1000000
+
+	state_category = rural
+
+	history={
+		owner = NEZ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = NEZ
+		add_core_of = NEZ
+	}
+
+	provinces={
+		5610 5660 5782 5837 5934 5945 5974 5985 5996 5997 6071 6080 6125 6155 6175 6207 6264 6357 6446 6490 
+	}
+	buildings_max_level_factor=1.000
+}

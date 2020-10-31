@@ -1,0 +1,18 @@
+state={
+	id=749
+	name="STATE_749"
+	provinces={
+		19620 19634 19748 19803 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GUL	
+		add_core_of = GUL
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

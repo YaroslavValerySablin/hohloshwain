@@ -1,0 +1,2 @@
+python hex_generator.py
+pause

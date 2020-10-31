@@ -1,0 +1,18 @@
+state={
+	id=737
+	name="STATE_737"
+	provinces={
+		18739 18774 18834 18843 18857 18858 18945 18984 
+	}
+
+	state_category = rural
+
+	history={
+		owner = TUC	
+		add_core_of = TUC
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

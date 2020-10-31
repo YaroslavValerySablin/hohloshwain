@@ -1,0 +1,22 @@
+state={
+	id=584
+	name="STATE_584"
+	provinces={
+		11611 11707 11745 11813 11835 11943 11982 12000 12110 
+	}
+
+	state_category = rural
+
+	history={
+		owner = VAL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = VAL
+	}
+
+	manpower=5028350
+	buildings_max_level_factor=1.000
+}

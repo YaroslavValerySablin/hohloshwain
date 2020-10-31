@@ -1,0 +1,25 @@
+
+state={
+	id=111
+	name="STATE_111"
+
+	state_category = rural
+
+	history={
+		owner = GAN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		add_core_of = GAN
+
+	}
+
+	provinces={
+		4635 4664 4698 4735 4761 4803 4998 5035 5194 
+	}
+	manpower=7534862
+	buildings_max_level_factor=1.000
+}

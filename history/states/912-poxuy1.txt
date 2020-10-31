@@ -1,0 +1,21 @@
+state={
+	id=912
+	name="STATE_912"
+	manpower=900000
+	state_category = rural
+	
+	history={
+		owner = INK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 6
+		}
+		add_core_of = INK
+	}
+	provinces={
+		2153 2154 2169 2175 2193 2267 2299 2300 2317 2321 2373 2385 
+	}
+	buildings_max_level_factor=1.000
+}

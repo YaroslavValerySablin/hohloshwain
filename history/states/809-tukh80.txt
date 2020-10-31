@@ -1,0 +1,21 @@
+state={
+	id=809
+	name="STATE_809"
+	provinces={
+		16856 16965 17035 17105 17205 
+	}
+
+	history={
+		owner = OZO
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4		
+		add_core_of = OZO
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

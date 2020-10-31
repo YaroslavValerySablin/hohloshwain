@@ -1,0 +1,38 @@
+capital = 1119
+
+oob = "BKH_0000"
+
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+}
+
+set_research_slots = 3
+set_stability = 0.42
+set_war_support = 0.33
+
+set_popularities = {
+	borshewism = 94
+	burjuism = 6
+}
+
+set_politics = {
+	ruling_party = borshewism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Nikolay Bukharin"
+	desc = ""
+	picture = "bukharin.dds"
+	ideology = gribonism
+}
+
+create_country_leader = {
+	name = "Nikolay Bukharin"
+	desc = ""
+	picture = "bukharin.dds"
+	ideology = jididoism
+}

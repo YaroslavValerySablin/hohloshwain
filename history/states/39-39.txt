@@ -1,0 +1,23 @@
+
+
+state={
+	id=39
+	name="STATE_39"
+	provinces={
+		6060 6105 6119 6132 6144 6180 6228 6238 6239 6291 6315 6329 6352 6388 6402 6424 6454 6483 6508 6532 6548 6549 6601 6602 6618 6634 6646 6734 6764 6765 6787 6887 6888 6914 6935 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ISL
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+		}
+		add_core_of = ISL
+	}
+
+	manpower=2402151
+	buildings_max_level_factor=1.000
+}

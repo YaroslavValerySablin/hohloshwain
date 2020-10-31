@@ -1,0 +1,25 @@
+state={
+	id=1227
+	name="STATE_1227"
+	provinces={
+		4699 4714 4715 4766 4850 4898 4974 
+	}
+
+        state_category = rural
+
+	history={
+		owner = LUK
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = LUK
+	}
+
+	manpower=3093542
+	buildings_max_level_factor=1.000
+}
+
+
+

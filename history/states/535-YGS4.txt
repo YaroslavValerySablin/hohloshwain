@@ -1,0 +1,22 @@
+state={
+	id=535
+	name="STATE_535"
+	provinces={
+		10173 10193 10209 10268 10305 10342 10389 10390 10412 10468 10523 10574 10611 10670 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NEK
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = NEK
+	}
+
+	manpower=869054
+	buildings_max_level_factor=1.000
+}

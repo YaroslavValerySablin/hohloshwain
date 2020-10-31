@@ -1,0 +1,22 @@
+state={
+	id=1283
+	name="STATE_1283"
+	provinces={
+		557 581 
+	}
+
+	
+	state_category = rural
+ 
+	history={
+		owner = IR3
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = IR3
+	}
+	manpower= 30320203030
+	buildings_max_level_factor=1.000
+}

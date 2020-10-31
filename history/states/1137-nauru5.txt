@@ -1,0 +1,20 @@
+state={
+	id=1137
+	name="STATE_1137"
+
+	state_category = rural
+
+	history={
+		owner = NAU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NAU
+	}
+
+	provinces={
+		8096 8426 8586 8595 8659 8733 8754 8785 8852 9035 9036 9076 9815 10546 10682 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

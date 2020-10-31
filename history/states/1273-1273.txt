@@ -1,0 +1,21 @@
+state={
+	id=1273
+	name="STATE_1273"
+	provinces={
+		807 808 880 881 889 894 
+	}
+
+	state_category = rural
+ 
+	history={
+		owner = TM1
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = TM1
+	}
+	manpower= 200500
+	buildings_max_level_factor=1.000
+}

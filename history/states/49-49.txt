@@ -1,0 +1,24 @@
+
+
+state={
+	id=49
+	name="STATE_49"
+	provinces={
+		3583 3635 3648 3674 3675 3709 3772 3795 3919 
+	}
+
+	state_category = rural
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		add_core_of = RAJ 
+	}
+
+	manpower=4675342
+	buildings_max_level_factor=1.000
+}

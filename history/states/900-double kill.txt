@@ -1,0 +1,23 @@
+state={
+	id=900
+	name="STATE_900"
+
+	manpower=863520
+
+	state_category = rural
+
+	history={
+		owner = WAD
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+		}
+		add_core_of = WAD
+		add_core_of = WAD
+	}
+
+	provinces={
+		3968 3975 3998 4104 4138 4152 4172 4212 4213 4223 4224 4243 4258 4281 4290 4298 4299 4349 4350 4419 
+	}
+	buildings_max_level_factor=1.000
+}

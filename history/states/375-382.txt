@@ -1,0 +1,21 @@
+
+state={
+	id=375
+	name="STATE_375"
+	provinces={
+		16432 16450 16666 16723 16796 16845 16859 16898 16939 16940 17091 17108 17109 17122 17260 17261 17286 17287 17343 17378 17475 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PLA
+	}
+
+	manpower=947841
+	buildings_max_level_factor=1.000
+}

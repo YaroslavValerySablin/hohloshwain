@@ -1,0 +1,48 @@
+INK = {
+	color = rgb { 214 51 70 }
+	color_ui = rgb { 214 51 70 }
+}
+COM = {
+	color = rgb { 56 74 5 }
+	color_ui = rgb { 56 74 5 }
+}
+TAG = {
+	color = rgb { 190 255 10 }
+	color_ui = rgb { 190 25 10 }
+}
+PTL = {
+	color = rgb { 255 10 231 }
+	color_ui = rgb { 255 10 231 }
+}
+YGA = {
+	color = rgb { 255 10 112 }
+	color_ui = rgb { 255 10 112 }
+}
+VAK = {
+	color = rgb { 255 112 10 }
+	color_ui = rgb { 255 112 10 }
+}
+MDR = {
+	color = rgb { 91 81 194 }
+	color_ui = rgb { 91 81 194 }
+}
+TRN = {
+	color = rgb { 28 130 26 }
+	color_ui = rgb { 28 130 26 }
+}
+OBZ = {
+	color = rgb { 130 50 26 }
+	color_ui = rgb { 130 50 26 }
+}
+KNG = {
+	color = rgb { 130 26 127 }
+	color_ui = rgb { 130 26 127 }
+}
+VLS = {
+	color = rgb { 28 25 28 }
+	color_ui = rgb { 28 25 28 }
+}
+LUM = {
+	color = rgb { 10 186 199 }
+	color_ui = rgb { 10 186 199 }
+}

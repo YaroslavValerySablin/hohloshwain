@@ -1,0 +1,23 @@
+
+state={
+	id=260
+	name="STATE_260"
+	provinces={
+		8772 8792 8823 8851 8894 8943 9007 9033 9062 9099 9100 9170 9191 9207 9253 9297 9298 9406 
+	}
+
+	state_category = rural
+
+	history={
+		owner = BKH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = BKH
+	}
+
+	manpower=2723471
+	buildings_max_level_factor=1.000
+}
+

@@ -1,0 +1,22 @@
+
+state={
+	id=391
+	name="STATE_391"
+	provinces={
+		16132 16689 16754 17209 17263 17290 17778 
+	}
+
+	state_category = rural
+
+	history={
+		owner = IPR
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = IPR
+	}
+
+	manpower=86501
+	buildings_max_level_factor=1.000
+}
+

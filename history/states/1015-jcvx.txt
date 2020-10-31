@@ -1,0 +1,18 @@
+state={
+	id=1015
+	name="STATE_1015"
+	manpower=679000
+	state_category = rural
+	
+	history={
+		owner = KNG
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = KNG
+	}
+	provinces={
+		1471 1479 1558 1564 1608 1626 
+	}
+	buildings_max_level_factor=1.000
+}

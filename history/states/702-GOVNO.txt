@@ -1,0 +1,25 @@
+
+state={
+	id=702
+	name="STATE_702"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = IZM
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = IZM
+	}
+
+	provinces={
+		9903 9984 10049 10065 10076 10077 10210 10239 10256 10377 
+	}
+}

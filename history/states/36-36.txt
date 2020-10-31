@@ -1,0 +1,21 @@
+
+state={
+	id=36
+	name="STATE_36"
+	provinces={
+		6509 6533 6647 6766 6799 6826 6840 6890 6973 6990 7110 7135 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ISL
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ISL
+	}
+
+	manpower=3524010
+	buildings_max_level_factor=1.000
+}

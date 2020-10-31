@@ -1,0 +1,22 @@
+state={
+	id=600
+	name="STATE_600"
+	provinces={
+		8024 8025 8093 8101 8151 8179 8180 8199 8200 8220 
+	}
+
+	state_category = rural
+
+	history={
+		owner = MAR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = MAR
+	}
+
+	manpower=2914501
+	buildings_max_level_factor=1.000
+}

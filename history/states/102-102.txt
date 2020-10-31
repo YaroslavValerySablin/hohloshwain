@@ -1,0 +1,22 @@
+
+state={
+	id=102
+	name="STATE_102"
+	provinces={
+		6827 6918 7003 7065 7084 7167 7180 7250 7275 7291 7363 7400 7413 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PNK
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = PNK
+	}
+
+	manpower=1234513
+	buildings_max_level_factor=1.000
+}

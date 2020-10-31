@@ -1,0 +1,18 @@
+state={
+	id=780
+	name="STATE_780"
+	provinces={
+		15510 15672 15709 15832 15911 16113 16198 
+	}
+
+	state_category = rural
+
+	history={
+		owner = UMO	
+		add_core_of = UMO
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

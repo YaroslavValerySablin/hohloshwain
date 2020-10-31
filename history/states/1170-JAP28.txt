@@ -1,0 +1,21 @@
+state={
+	id=1170
+	name="STATE_1170"
+	provinces={
+		3287 3325 3402 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = BIB
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = BIB
+	}
+	manpower=980540
+	buildings_max_level_factor=1.000
+}

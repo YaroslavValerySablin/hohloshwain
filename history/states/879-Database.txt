@@ -1,0 +1,24 @@
+state={
+	id=879
+	name="STATE_879"
+
+
+	manpower=980000
+
+    state_category = rural
+
+	history={
+		owner = ETH
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = ETH
+	}
+	provinces={
+		2546 2572 2672 2680 
+	}
+	buildings_max_level_factor=1.000
+}

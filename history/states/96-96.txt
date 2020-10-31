@@ -1,0 +1,22 @@
+
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		5640 5682 5707 5708 5709 5710 5722 5728 5807 5829 5851 5864 5874 5896 5928 5981 6019 6043 6044 6061 6166 6229 6230 6330 6410 6455 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PNK
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = PNK
+	}
+
+	manpower=2306574
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,6 @@
+
+graphucal_culture = eastern_european_gfx
+graphucal_culture_2d = eastern_european_2d
+
+color = rgb { 255 192 20 }
+color_ui = rgb { 255 186 0 }

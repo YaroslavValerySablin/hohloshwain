@@ -1,0 +1,31 @@
+
+state={
+	id=472
+	name="STATE_472"
+	manpower = 102325
+	
+	resources={
+		
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = ZPU
+		
+		
+		
+		buildings = {
+		        infrastructure = 5
+			industrial_complex = 3 
+			
+		add_core_of = ZPU
+	}
+	
+    }
+	
+	provinces={    		
+     	  11356 11371 11487 11545 11729 
+ 	} 
+ }
+

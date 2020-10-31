@@ -1,0 +1,25 @@
+
+state={
+	id=728
+	name="STATE_728"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = 3AZ
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = 3AZ
+	}
+
+	provinces={
+		9972 10002 10143 10177 10259 10394 
+	}
+}

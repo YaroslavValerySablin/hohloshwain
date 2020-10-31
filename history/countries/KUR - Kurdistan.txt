@@ -1,0 +1,29 @@
+capital = 1220
+
+oob = "KUR_0000"
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_research_slots = 3
+set_stability = 0.34
+set_war_support = 0.76
+
+set_popularities = {
+	pahanism = 100
+}
+
+set_politics = {
+	ruling_party = pahanism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Kurdish Union"
+	desc = ""
+	picture = "kurdish_union.dds"
+	ideology = despopahanism
+}

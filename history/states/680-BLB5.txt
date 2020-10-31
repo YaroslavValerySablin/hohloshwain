@@ -1,0 +1,24 @@
+state={
+	id=680
+	name="STATE_680"
+
+	manpower=863520
+
+	state_category = rural
+
+	history={
+		owner = RAP
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+		}
+		add_core_of = RAP
+		add_core_of = RAP
+	}
+
+	provinces={
+		10866 10943 11016 11040 11077 11114 11132 11227 11255 11303 11359 11379 11405 11474 11505 11528 11595 11619 11643 11670 11796 11797 11822 11930 11953 
+	}
+	buildings_max_level_factor=1.000
+}

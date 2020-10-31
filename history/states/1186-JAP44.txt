@@ -1,0 +1,21 @@
+state={
+	id=1186
+	name="STATE_1186"
+	provinces={
+		2660 2685 2686 2760 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = TKG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = TKG
+	}
+	manpower=980560
+	buildings_max_level_factor=1.000
+}

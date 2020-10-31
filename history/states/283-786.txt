@@ -1,0 +1,22 @@
+
+state={
+	id=283
+	name="STATE_283"
+	provinces={
+		11773 11868 11888 12093 12140 12346 12486 12608 12609 12681 12741 12792 
+	}
+
+	state_category = rural
+
+	history={
+		owner = KZH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = KZH
+	}
+
+	manpower=956411
+	buildings_max_level_factor=1.000
+}

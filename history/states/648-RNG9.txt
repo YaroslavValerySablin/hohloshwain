@@ -1,0 +1,21 @@
+state={
+	id=648
+	name="STATE_648"
+	provinces={
+		13487 13549 13602 13701 13784 13785 13876 13897 13964 14094 14095 14121 14166 14245 14330 14395 
+	}
+
+	history={
+		owner = RNS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4			
+		add_core_of = RNS
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=1156
+	name="STATE_1156"
+	provinces={
+		3463 3473 3585 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = DKC
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = DKC
+	}
+	manpower=3450650
+	buildings_max_level_factor=1.000
+}

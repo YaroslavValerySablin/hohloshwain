@@ -1,0 +1,25 @@
+
+state={
+	id=723
+	name="STATE_723"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = SIN
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = SIN
+	}
+
+	provinces={
+		9263 9264 9279 9333 9351 9418 
+	}
+}

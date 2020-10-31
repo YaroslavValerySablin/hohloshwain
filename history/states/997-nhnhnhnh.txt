@@ -1,0 +1,21 @@
+state={
+	id=997
+	name="STATE_997"
+
+	manpower=980000
+
+	state_category = rural
+
+
+	history={
+		owner = OBZ
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = OBZ
+	}
+	provinces={
+		1426 1444 1473 1486 1519 1531 1570 1592 1613 1620 1656 
+	}
+	buildings_max_level_factor=1.000
+}

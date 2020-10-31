@@ -1,0 +1,23 @@
+
+state={
+	id=393
+	name="STATE_393"
+	provinces={
+		13315 13438 13653 13742 13923 13924 13997 14051 14183 14229 14279 14280 14320 14404 14474 14498 14621 14666 14771 14845 14911 
+	}
+
+	state_category = rural
+
+	history={
+		owner = YAR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = YAR
+	}
+
+	manpower=1530908
+	buildings_max_level_factor=1.000
+}

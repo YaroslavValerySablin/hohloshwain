@@ -1,0 +1,21 @@
+state={
+	id=1215
+	name="STATE_1215"
+	provinces={
+		5139 5254 5349 5437 
+	}
+
+        state_category = rural
+
+	history={
+		owner = SHI
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = SHI
+	}
+	manpower=250500
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=319
+	name="STATE_319"
+	provinces={
+		15890 16199 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ZMR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = ZMR
+	}
+
+	manpower=2341145
+	buildings_max_level_factor=1.000
+}

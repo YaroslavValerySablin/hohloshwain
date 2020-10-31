@@ -1,0 +1,22 @@
+state={
+	id=1189
+	name="STATE_1189"
+	provinces={
+		2977 3068 3077 
+	}
+
+
+        state_category = rural
+ 
+	history={
+		owner = DTH
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = DTH
+	}
+	manpower=650400
+	buildings_max_level_factor=1.000
+}

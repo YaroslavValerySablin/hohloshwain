@@ -1,0 +1,21 @@
+state={
+	id=1256
+	name="STATE_1256"
+	provinces={
+		1014 1024 1053 1094 1121 1186 1204 1245 
+	}
+         
+        state_category = rural
+
+        history = {
+		owner = CH2
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = CH2
+	}
+	manpower= 800400
+	buildings_max_level_factor=1.000
+}

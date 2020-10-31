@@ -1,0 +1,22 @@
+state={
+	id=519
+	name="STATE_519"
+	provinces={
+		13599 13643 13780 13800 
+	}
+
+	state_category = rural
+
+	history={
+		owner = DDR
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 4
+		}
+		add_core_of = DDR
+	}
+
+	manpower=3756709
+	buildings_max_level_factor=1.000
+}

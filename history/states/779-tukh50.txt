@@ -1,0 +1,18 @@
+state={
+	id=779
+	name="STATE_779"
+	provinces={
+		16023 16059 16144 16155 16356 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ROC	
+		add_core_of = ROC
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

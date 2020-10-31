@@ -1,0 +1,21 @@
+state={
+	id=1150
+	name="STATE_1150"
+	provinces={
+		2893 2954 2955 2975 3013 3047 3096 3106 3133 3141 3148 3205 
+	}
+
+        state_category = rural
+
+	history={
+		owner = LOL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = LOL
+	}
+	manpower=4560500
+	buildings_max_level_factor=1.000
+}

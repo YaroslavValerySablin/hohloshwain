@@ -1,0 +1,23 @@
+
+state={
+	id=81
+	name="STATE_81"
+	provinces={
+		4609 4637 4652 4713 4804 4861 4862 4881 4971 5010 5011 5077 5078 5169 5267 
+	}
+
+	state_category = rural
+
+	history={
+		owner = KRI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = KRI
+	}
+
+	manpower=12724621
+	buildings_max_level_factor=1.000
+}
