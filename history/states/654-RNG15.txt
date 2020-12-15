@@ -5,17 +5,18 @@ state={
 		13704 13725 13762 13877 13898 13911 14124 14202 
 	}
 
+
+	state_category = rural
+
 	history={
 		owner = RNS
 		buildings = {
 			infrastructure = 6
-			arms_factory = 4
-			industrial_complex = 4
-			air_base = 4		
+			arms_factory = 1
 		add_core_of = RNS
 	}
 	
     }
-	manpower=0
+	manpower=8000000
 	buildings_max_level_factor=1.000
 }

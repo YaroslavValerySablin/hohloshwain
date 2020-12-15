@@ -5,6 +5,8 @@ state={
 		15287 15355 15356 15369 15411 15507 15555 15577 15593 15594 15670 15737 15738 15765 15830 
 	}
 
+	state_category = rural
+
 	history={
 		owner = RNS
 		buildings = {
@@ -16,6 +18,6 @@ state={
 	}
 	
     }
-	manpower=0
+	manpower=8000000
 	buildings_max_level_factor=1.000
 }
