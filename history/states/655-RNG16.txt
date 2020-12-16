@@ -13,10 +13,10 @@ state={
 			infrastructure = 8
 			arms_factory = 2
 			industrial_complex = 1
+		}
 		add_core_of = RNS
 	}
 	
-    }
 	manpower=8000000
 	buildings_max_level_factor=1.000
 }

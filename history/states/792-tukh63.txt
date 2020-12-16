@@ -4,18 +4,15 @@ state={
 	provinces={
 		17178 17254 17315 17358 17373 17510 17511 17560 17579 17700 17724 
 	}
-
+	state_category = rural
 	history={
 		owner = OZO
 		buildings = {
 			infrastructure = 6
-			arms_factory = 4
-			industrial_complex = 4
-			air_base = 4		
+		}	
 		add_core_of = OZO
 	}
 	
-    }
-	manpower=0
+	manpower=7000000
 	buildings_max_level_factor=1.000
 }

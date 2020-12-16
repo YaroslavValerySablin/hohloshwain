@@ -8,11 +8,17 @@ state={
 	state_category = rural
 
 	history={
-		owner = GUL	
+		owner = GUL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+			dockyard = 2
+		}	
 		add_core_of = GUL
 	}
 	
-    }
-	manpower=0
+	manpower=7000000
 	buildings_max_level_factor=1.000
 }

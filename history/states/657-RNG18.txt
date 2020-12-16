@@ -10,11 +10,11 @@ state={
 	history={
 		owner = RNS
 		buildings = {
-			infrastructure = 8	
+			infrastructure = 8
+		}	
 		add_core_of = RNS
 	}
 	
-    }
 	manpower=8000000
 	buildings_max_level_factor=1.000
 }

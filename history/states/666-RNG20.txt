@@ -11,10 +11,10 @@ state={
 		owner = RNS
 		buildings = {
 			infrastructure = 7
+		}
 		add_core_of = RNS
 	}
 	
-    }
 	manpower=8000000
 	buildings_max_level_factor=1.000
 }
