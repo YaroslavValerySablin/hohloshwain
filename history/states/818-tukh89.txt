@@ -8,11 +8,13 @@ state={
 	state_category = rural
 
 	history={
-		owner = GON	
+		owner = GON
+		buildings = {
+			infrastructure = 6
+		}	
 		add_core_of = GON
 	}
 	
-    }
-	manpower=0
+	manpower=7000000
 	buildings_max_level_factor=1.000
 }

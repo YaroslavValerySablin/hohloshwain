@@ -8,14 +8,10 @@ state={
 	history={
 		owner = NAP
 		buildings = {
-			infrastructure = 6
-			arms_factory = 4
-			industrial_complex = 4
-			air_base = 4		
+			infrastructure = 6		
 		add_core_of = NAP
 	}
 	
-    }
-	manpower=0
+	manpower=7000000
 	buildings_max_level_factor=1.000
 }
