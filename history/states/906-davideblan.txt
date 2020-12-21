@@ -1,0 +1,20 @@
+state={
+	id=906
+	name="STATE_906"
+	manpower = 221165
+	state_category = rural
+	
+	history={
+		owner = COM
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+		}
+		add_core_of = COM
+	}
+
+	provinces={
+		2700 2701 2721 2748 2756 2820 2829 2850 2933 2949 
+	}
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=439
+	name="STATE_439"
+	provinces={
+		19742 19743 19761 20135 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GDI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = GDI
+	}
+
+	manpower=12341
+	buildings_max_level_factor=1.000
+}

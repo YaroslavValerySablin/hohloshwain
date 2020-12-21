@@ -1,0 +1,21 @@
+state={
+	id=1165
+	name="STATE_1165"
+	provinces={
+		3242 3324 
+	}
+
+        state_category = rural
+
+	history={
+		owner = BRS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = BRS
+	}
+	manpower=5240540
+	buildings_max_level_factor=1.000
+}

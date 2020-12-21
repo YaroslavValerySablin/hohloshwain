@@ -1,0 +1,21 @@
+state={
+	id=1194
+	name="STATE_1194"
+	provinces={
+		3349 3389 3412 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = DRE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = DRE
+	}
+	manpower=840500
+	buildings_max_level_factor=1.000
+}

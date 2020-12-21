@@ -1,0 +1,25 @@
+
+state={
+	id=704
+	name="STATE_704"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = CRM
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = CRM
+	}
+
+	provinces={
+		9672 9761 9825 9826 9888 9916 9969 9985 10001 10108 10109 
+	}
+}

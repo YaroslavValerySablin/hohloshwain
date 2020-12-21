@@ -1,0 +1,22 @@
+state={
+	id=639
+	name="STATE_639"
+	provinces={
+		16516 16536 16604 16628 16659 16741 16742 16839 16916 16932 16933 
+	}
+
+	state_category = rural
+
+	history={
+		owner = EST
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = EST
+	}
+
+	manpower=1259045
+	buildings_max_level_factor=1.000
+}

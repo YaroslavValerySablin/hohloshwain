@@ -1,0 +1,21 @@
+state={
+	id=1005
+	name="STATE_1005"
+	manpower=980000
+	state_category = rural
+	
+	history={
+		owner = OBZ
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = OBZ
+	}
+	provinces={
+		1500 1505 1569 1586 1601 1642 1661 
+	}
+	buildings_max_level_factor=1.000
+}

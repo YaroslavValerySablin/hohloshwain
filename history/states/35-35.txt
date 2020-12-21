@@ -1,0 +1,22 @@
+state={
+	id=35
+	name="STATE_35"
+
+	state_category = rural
+
+	history={
+		owner = ISL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = ISL
+	}
+
+	manpower=4574120
+
+	provinces={
+		7317 7356 7412 7438 7439 7539 7621 7676 7707 7772 7840 7900 7918 7927 7977 8010 8105 
+	}
+	buildings_max_level_factor=1.000
+}

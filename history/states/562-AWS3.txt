@@ -1,0 +1,21 @@
+state={
+	id=562
+	name="STATE_562"
+	provinces={
+		11636 11637 11708 11787 11857 11964 12085 
+	}
+
+	state_category = rural
+
+	history={
+		owner = HIT
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 6
+		}
+		add_core_of = HIT
+	}
+
+	manpower=5128485
+	buildings_max_level_factor=1.000
+}

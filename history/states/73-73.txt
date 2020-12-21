@@ -1,0 +1,22 @@
+
+state={
+	id=73
+	name="STATE_73"
+	provinces={
+		5319 5378 5499 5630 5655 5684 5693 5767 5912 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = GAN
+	}
+
+	manpower=8775410
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=358
+	name="STATE_358"
+	provinces={
+		14078 14079 14226 14250 14381 14497 14556 14717 14890 14934 14966 15161 
+	}
+
+	state_category = rural
+
+	history={
+		owner = DUR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = DUR
+	}
+
+	manpower=365241
+	buildings_max_level_factor=1.000
+}

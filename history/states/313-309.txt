@@ -1,0 +1,23 @@
+
+state={
+	id=313
+	name="STATE_313"
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = PLA
+
+	}
+
+	provinces={
+		17235 17408 17526 17527 17565 17580 17595 17661 17808 17836 17887 17901 17988 18043 18060 18131 18141 18207 18217 18323 
+	}
+	manpower=1534321
+	buildings_max_level_factor=1.000
+}

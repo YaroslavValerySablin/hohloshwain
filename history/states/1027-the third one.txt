@@ -1,0 +1,23 @@
+state={
+	id=1027
+	name="STATE_1027"
+	manpower=650000
+
+	state_category = rural
+
+	history={
+		owner = LUM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+
+		}
+		add_core_of = LUM
+	}
+	provinces={
+		283 327 355 380 397 421 478 485 486 514 541 551 609 
+	}
+
+	buildings_max_level_factor=1.000
+}

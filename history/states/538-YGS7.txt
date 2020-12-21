@@ -1,0 +1,24 @@
+
+state={
+	id=538
+	name="STATE_538"
+
+	history={
+		owner = NEK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+
+		}
+		add_core_of = NEK
+
+	}
+
+	provinces={
+		9400 9426 9445 9474 9506 9524 9553 9585 9703 
+	}
+	manpower=2712064
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

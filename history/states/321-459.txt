@@ -1,0 +1,22 @@
+
+state={
+	id=321
+	name="STATE_321"
+	provinces={
+		15874 15875 15963 16201 16322 16380 16560 16648 
+	}
+
+	state_category = rural
+
+	history={
+		owner = LET
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+		}
+		add_core_of = LET
+	}
+
+	manpower=2001441
+	buildings_max_level_factor=1.000
+}

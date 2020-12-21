@@ -1,0 +1,22 @@
+state={
+	id=1339
+	name="STATE_1339"
+
+	history={
+		owner = PNG
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+		add_core_of = PNG
+
+	}
+
+	provinces={
+	  119 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

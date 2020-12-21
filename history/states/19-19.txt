@@ -1,0 +1,22 @@
+
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		7974 8008 8057 8080 8115 8147 8182 8221 8288 8323 8331 8337 8359 8438 
+	}
+
+	state_category = rural
+
+	history={
+		owner = KUR
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		add_core_of = KUR
+	}
+
+	manpower=3654034
+	buildings_max_level_factor=1.000
+}

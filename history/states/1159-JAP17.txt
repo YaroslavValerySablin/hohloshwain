@@ -1,0 +1,22 @@
+state={
+	id=1159
+	name="STATE_1159"
+	provinces={
+		3502 3606 
+	}
+
+
+        state_category = rural
+ 
+	history={
+		owner = NAR
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = NAR
+	}
+	manpower = 5687400
+	buildings_max_level_factor=1.000
+}

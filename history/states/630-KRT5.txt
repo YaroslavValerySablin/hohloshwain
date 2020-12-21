@@ -1,0 +1,20 @@
+state={
+	id=630
+	name="STATE_630"
+	provinces={
+		13379 13454 13485 13531 13674 13700 13760 
+	}
+
+	state_category = rural
+
+	history={
+		owner = POD
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = POD
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

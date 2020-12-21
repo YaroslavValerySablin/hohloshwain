@@ -1,0 +1,23 @@
+
+state={
+	id=379
+	name="STATE_379"
+	provinces={
+		17288 17409 17528 17546 17596 17617 17642 17685 17703 17729 17758 17809 17934 17935 17947 17974 18061 18107 18151 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = PLA
+	}
+
+	manpower=2412434
+	buildings_max_level_factor=1.000
+}

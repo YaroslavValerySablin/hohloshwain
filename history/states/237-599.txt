@@ -1,0 +1,23 @@
+
+state={
+	id=237
+	name="STATE_237"
+
+	history={
+		owner = YAR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = YAR
+
+	}
+
+	provinces={
+		13972 14022 14053 14281 14359 14384 14385 14425 14667 
+	}
+	manpower=1765908
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

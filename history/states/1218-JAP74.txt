@@ -1,0 +1,22 @@
+state={
+	id=1218
+	name="STATE_1218"
+	provinces={
+		5171 5226 5308 
+	}
+
+        state_category = rural
+
+	history={
+		owner = HIK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = HIK
+	}
+
+	manpower=750600
+	buildings_max_level_factor=1.000
+}

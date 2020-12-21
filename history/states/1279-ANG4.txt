@@ -1,0 +1,21 @@
+state={
+	id=1279
+	name="STATE_1279"
+	provinces={
+		122 134 145 147 149 151 155 174 187 188 196 211 212 224 228 242 247 248 256 263 268 269 273 282 291 
+	}
+
+	state_category = rural
+ 
+	history={
+		owner = BR2
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2 
+		}
+		add_core_of = BR2
+	}
+	manpower= 5456980400
+	buildings_max_level_factor=1.000
+}

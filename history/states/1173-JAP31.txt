@@ -1,0 +1,21 @@
+state={
+	id=1173
+	name="STATE_1173"
+	provinces={
+		3432 3504 3525 3557 3645 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = VIB
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 3
+		}
+		add_core_of = VIB
+	}
+	manpower=480540
+	buildings_max_level_factor=1.000
+}

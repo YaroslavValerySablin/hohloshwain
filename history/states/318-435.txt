@@ -1,0 +1,23 @@
+
+state={
+	id=318
+	name="STATE_318"
+	provinces={
+		15155 15177 15290 15291 15395 15535 15562 15595 15615 15630 15813 15849 15850 15945 15962 15983 16061 16178 16200 16288 16321 16342 16449 16545 16583 16584 16722 16794 16882 16897 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PLA
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = PLA
+	}
+
+	manpower=1244313
+	buildings_max_level_factor=1.000
+}

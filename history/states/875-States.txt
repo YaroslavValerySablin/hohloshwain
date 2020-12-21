@@ -1,0 +1,25 @@
+state={
+	id=875
+	name="STATE_875"
+
+	manpower=744642
+
+	state_category = rural
+	
+	history={
+		owner = MNG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = MNG
+		add_core_of = MNG
+	}
+
+
+	provinces={
+		2989 3027 3037 3053 3070 3071 3101 3208 3209 3210 3217 3315 3341 
+	}
+	buildings_max_level_factor=1.000
+}

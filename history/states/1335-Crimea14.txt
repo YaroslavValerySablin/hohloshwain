@@ -1,0 +1,20 @@
+
+state={
+	id=1335
+	name="STATE_1335"
+	provinces={
+		7858 7865 7946 7965 8011 8059 8066 
+	}
+	state_category = rural
+
+	history={
+		owner = FCK
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = FCK
+	}
+	manpower=7858786579467965801180598066
+	buildings_max_level_factor=1.000
+}

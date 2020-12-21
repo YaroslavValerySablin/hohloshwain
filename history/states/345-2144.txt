@@ -1,0 +1,23 @@
+state={
+	id=345
+	name="STATE_345"
+
+	state_category = rural
+
+	history={
+		owner = EBE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		add_core_of = EBE
+
+	}
+	provinces={
+		19291 19308 19462 19463 19638 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

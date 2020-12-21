@@ -1,0 +1,22 @@
+state={
+	id=1250
+	name="STATE_1250"
+	provinces={
+		1513 1537 1580 1595 1596 1602 1617 1664 1671 1672 1682 1745 1746 1751 1768 
+	}
+
+
+        state_category = rural
+
+        history = {
+		owner = JOJ
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = JOJ
+	}
+	manpower= 578404343
+	buildings_max_level_factor=1.000
+}

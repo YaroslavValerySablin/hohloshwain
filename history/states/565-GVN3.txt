@@ -1,0 +1,22 @@
+state={
+	id=565
+	name="STATE_565"
+	provinces={
+		10667 10699 10713 10758 10817 10818 10860 10927 10976 11031 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = SWI
+	}
+
+	manpower=1589460
+	buildings_max_level_factor=1.000
+}

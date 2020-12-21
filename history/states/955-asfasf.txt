@@ -1,0 +1,21 @@
+state={
+	id=955
+	name="STATE_955"
+	manpower=980000
+	state_category = rural
+	
+	history={
+		owner = TRN
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = TRN
+	}
+	provinces={
+		2115 2171 2217 2231 2232 2281 
+	}
+	buildings_max_level_factor=1.000
+}

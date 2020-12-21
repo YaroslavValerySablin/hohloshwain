@@ -1,0 +1,21 @@
+state={
+	id=991
+	name="STATE_991"
+	manpower=980000
+	state_category = rural
+	
+	history={
+		owner = VLS
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = VLS
+	}
+
+	provinces={
+		872 913 932 946 962 1016 1017 1040 1087 1100 
+	}
+	buildings_max_level_factor=1.000
+}

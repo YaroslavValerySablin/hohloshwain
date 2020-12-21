@@ -1,0 +1,20 @@
+state={
+	id=926
+	name="STATE_926"
+	manpower=900000
+	state_category = rural
+	
+	history={
+		owner = PNG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+		}
+		add_core_of = PNG
+	}
+
+	provinces={
+		697 724 751 768 787 871 
+	}
+	buildings_max_level_factor=1.000
+}

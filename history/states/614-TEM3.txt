@@ -1,0 +1,18 @@
+state={
+	id=614
+	name="STATE_614"
+	provinces={
+		14751 14816 14834 14901 14946 14983 
+	}
+	
+	state_category = rural
+
+	history={
+		owner = TEM	
+		add_core_of = TEM
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

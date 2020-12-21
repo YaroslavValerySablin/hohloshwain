@@ -1,0 +1,20 @@
+state={
+	id=760
+	name="STATE_760"
+	provinces={
+		16024 16060 16114 16145 16176 16320 16341 16412 16485 16500 16543 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ROC
+		buildings = {
+			infrastructure = 6
+		}	
+		add_core_of = ROC
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

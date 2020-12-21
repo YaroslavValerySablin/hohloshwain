@@ -1,0 +1,22 @@
+
+state={
+	id=341
+	name="STATE_341"
+	provinces={
+		12250 12273 12274 12386 12463 12464 12565 12588 12589 12610 12767 12768 12874 12896 12920 13016 13146 
+	}
+
+	state_category = rural
+
+	history={
+		owner = LAT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = LAT
+	}
+
+	manpower=2102154
+	buildings_max_level_factor=1.000
+}

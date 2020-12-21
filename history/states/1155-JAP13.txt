@@ -1,0 +1,21 @@
+state={
+	id=1155
+	name="STATE_1155"
+	provinces={
+		3347 3387 3444 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = BKK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = BKK
+	}
+	manpower=2400600
+	buildings_max_level_factor=1.000
+}

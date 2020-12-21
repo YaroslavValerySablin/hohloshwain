@@ -1,0 +1,20 @@
+state={
+	id=449
+	name="STATE_449"
+
+	state_category = rural
+
+	history={
+		owner = CKD
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CKD
+	}
+
+	provinces={
+		19784 19785 19794 19862 19921 20048 20107 20141 20148 20149 20171 20214 20245 20253 20269 20278 20384 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

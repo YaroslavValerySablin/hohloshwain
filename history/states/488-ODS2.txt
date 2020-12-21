@@ -1,0 +1,18 @@
+state={
+	id=488
+	name="STATE_488"
+	provinces={
+		10720 10896 10919 10930 11061 11095 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ODE	
+		add_core_of = ODE
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1258
+	name="STATE_1258"
+	provinces={
+		708 732 793 798 818 901 910 930 938 970 971 
+	}
+
+        state_category = rural
+
+        history = {
+		owner = CH2
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = CH2
+	}
+
+	manpower= 8702005
+	buildings_max_level_factor=1.000
+}

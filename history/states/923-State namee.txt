@@ -1,0 +1,21 @@
+state={
+	id=923
+	name="STATE_923"
+	manpower=0
+	state_category = rural
+	
+	history={
+		owner = INK
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		add_core_of = INK
+	}
+
+	provinces={
+		1077 1113 1137 1169 1191 1212 1232 1259 1301 
+	}
+	buildings_max_level_factor=1.000
+}

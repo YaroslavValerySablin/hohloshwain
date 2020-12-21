@@ -1,0 +1,23 @@
+state={
+	id=876
+	name="STATE_876"
+
+	manpower=524632
+
+	state_category = rural
+
+	history={
+		owner = RIC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = RIC
+		add_core_of = RIC
+	}
+
+	provinces={
+		3392 3425 3550 3562 3646 3665 3666 3775 3776 3833 3854 3885 3895 3980 4025 4057 
+	}
+	buildings_max_level_factor=1.000
+}

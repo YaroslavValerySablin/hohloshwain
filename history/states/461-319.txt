@@ -1,0 +1,23 @@
+
+state={
+	id=461
+	name="STATE_461"
+	provinces={
+		17323 17548 17744 18079 
+	}
+
+	state_category = rural
+
+	state_category = town
+
+	history={
+		owner = NOD
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = NOD
+	}
+
+	manpower=102104
+	buildings_max_level_factor=1.000
+}

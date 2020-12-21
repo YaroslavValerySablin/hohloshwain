@@ -1,0 +1,20 @@
+
+state={
+	id=1325
+	name="STATE_1325"
+	provinces={
+		7044 7113 7183 7231 7293 7305 7340 7401 7463 7482 
+	}
+	state_category = rural
+
+	history={
+		owner = BL9
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = BL9
+	}
+	manpower=228
+	buildings_max_level_factor=1.000
+}

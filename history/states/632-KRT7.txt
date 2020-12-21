@@ -1,0 +1,21 @@
+state={
+	id=632
+	name="STATE_632"
+	provinces={
+		13065 13138 13158 13236 13258 13358 13359 13486 
+	}
+
+	state_category = rural
+
+	history={
+		owner = POD
+		buildings = {
+			infrastructure = 6
+			air_base = 4
+		}	
+		add_core_of = POD
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=575
+	name="STATE_575"
+	provinces={
+		12379 12452 12502 12580 12622 12734 12833 12892 12932 12977 13088 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = SAU
+	}
+
+	manpower=1501245
+	buildings_max_level_factor=1.000
+}

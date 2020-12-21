@@ -1,0 +1,22 @@
+state={
+	id=625
+	name="STATE_625"
+	provinces={
+		15390 15457 15591 15626 15702 15703 15845 15864 15884 
+	}
+
+	state_category = rural
+
+	history={
+		owner = LAT
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 4
+		}
+		add_core_of = LAT 
+	}
+
+	manpower=3295303
+	buildings_max_level_factor=1.000
+}

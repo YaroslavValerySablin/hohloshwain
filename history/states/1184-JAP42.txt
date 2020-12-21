@@ -1,0 +1,21 @@
+state={
+	id=1184
+	name="STATE_1184"
+	provinces={
+		2957 2970 3060 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = OPM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = OPM
+	}
+	manpower=800500
+	buildings_max_level_factor=1.000
+}

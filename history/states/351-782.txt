@@ -1,0 +1,23 @@
+
+state={
+	id=351
+	name="STATE_351"
+	provinces={
+		11696 11738 11913 11957 12070 12144 12275 12299 12324 12348 12369 12490 12592 12637 12656 12657 12683 12703 12966 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ELT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = ELT
+	}
+
+	manpower=4214241
+	buildings_max_level_factor=1.000
+}
+

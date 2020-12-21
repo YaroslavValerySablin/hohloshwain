@@ -1,0 +1,21 @@
+
+state={
+	id=126
+	name="STATE_126"
+	provinces={
+		18864 18928 19172 19262 19414 19602 19624 19715 19922 20040 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SKY
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SKY
+	}
+
+	manpower=165742
+	buildings_max_level_factor=1.000
+}

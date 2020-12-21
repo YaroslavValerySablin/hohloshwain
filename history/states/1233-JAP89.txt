@@ -1,0 +1,21 @@
+state={
+	id=1233
+	name="STATE_1233"
+	provinces={
+		5856 6010 6025 
+	}
+
+        state_category = rural
+
+	history={
+		owner = 3DG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 3
+		}
+		add_core_of = 3DG
+	}
+	manpower=340500
+	buildings_max_level_factor=1.000
+}

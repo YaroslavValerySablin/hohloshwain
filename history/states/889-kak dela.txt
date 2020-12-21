@@ -1,0 +1,23 @@
+state={
+	id=889
+	name="STATE_889"
+
+	manpower=517323
+
+	state_category = rural
+
+	history={
+		owner = SAH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		add_core_of = SAH
+		add_core_of = SAH
+	}
+
+	provinces={
+		4868 4920 5081 5093 5275 5403 5441 5593 5634 
+	}
+	buildings_max_level_factor=1.000
+}

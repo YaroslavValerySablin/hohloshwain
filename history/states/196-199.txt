@@ -1,0 +1,21 @@
+
+state={
+	id=196
+	name="STATE_196"
+	provinces={
+		16889 16972 17037 17184 17308 17410 17454 17480 17706 17718 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GVN
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = GVN
+	}
+
+	manpower=173674
+	buildings_max_level_factor=1.000
+}

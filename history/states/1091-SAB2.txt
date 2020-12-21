@@ -1,0 +1,25 @@
+
+state={
+	id=1091
+	name="STATE_1091"
+	manpower = 500500
+	
+	state_category = town
+
+	history={
+		owner = SAB
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+
+		}
+
+		add_core_of = SAB
+	}
+
+	provinces={
+		2074 2104 2229 2249 2273 2336 2389 2397 2444 2555 
+	}
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=94
+	name="STATE_94"
+	provinces={
+		5604 5683 5711 5712 5723 5791 5844 5865 6045 6062 6120 6181 6353 
+	}
+
+	state_category = rural
+
+	history={
+		owner = PNK
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+		}
+		add_core_of = PNK
+	}
+
+	manpower=1354353
+	buildings_max_level_factor=1.000
+}

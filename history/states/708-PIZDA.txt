@@ -1,0 +1,25 @@
+
+state={
+	id=708
+	name="STATE_708"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = SIN
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = SIN
+	}
+
+	provinces={
+		8799 8800 8811 8839 8862 8910 8911 8980 9004 9030 9071 
+	}
+}

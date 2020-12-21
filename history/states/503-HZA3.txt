@@ -1,0 +1,18 @@
+state={
+	id=503
+	name="STATE_503"
+	provinces={
+		13257 13309 13357 13401 13484 13506 13507 13548 13601 13699 13737 13738 13759 
+	}
+
+	state_category = rural
+
+	history={
+		owner = CCA	
+		add_core_of = CCA
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

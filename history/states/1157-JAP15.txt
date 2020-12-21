@@ -1,0 +1,21 @@
+state={
+	id=1157
+	name="STATE_1157"
+	provinces={
+		3687 3696 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = THJ
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = THJ
+	}
+	manpower= 8760987
+	buildings_max_level_factor=1.000
+}

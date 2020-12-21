@@ -1,0 +1,25 @@
+
+state={
+	id=698
+	name="STATE_698"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = BSV
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = BSV
+	}
+
+	provinces={
+		8844 8845 8860 8861 8882 8890 8924 8933 8964 9045 
+	}
+}

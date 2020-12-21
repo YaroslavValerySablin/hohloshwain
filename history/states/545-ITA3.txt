@@ -1,0 +1,21 @@
+state={
+	id=545
+	name="STATE_545"
+	provinces={
+		9274 9330 9382 9414 9457 9522 9523 
+	}
+
+	state_category = rural
+
+	history={
+		owner = MUS
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = MUS
+	}
+
+	manpower=2814535
+	buildings_max_level_factor=1.000
+}

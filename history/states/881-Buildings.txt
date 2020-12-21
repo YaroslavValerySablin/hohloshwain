@@ -1,0 +1,25 @@
+state={
+	id=881
+	name="STATE_881"
+
+
+
+	manpower=980000
+
+    state_category = rural
+
+	history={
+		owner = TRN
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}
+		add_core_of = TRN
+	}
+	provinces={
+		2429 2442 2449 2467 2505 2516 2539 2540 
+	}
+	buildings_max_level_factor=1.000
+}

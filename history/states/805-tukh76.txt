@@ -1,0 +1,27 @@
+
+state={
+	id=805
+	name="STATE_805"
+	manpower = 14882
+	
+	state_category = town
+
+	history={
+		owner = VNM
+
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 3
+
+		}
+
+		add_core_of = VNM
+
+	}
+
+	provinces={
+		16011 16089 16090 16143 16218 16287 16369 16468 
+	}
+}

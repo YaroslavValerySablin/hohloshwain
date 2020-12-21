@@ -1,0 +1,25 @@
+
+state={
+	id=772
+	name="STATE_772"
+	manpower = 900300
+	
+	state_category = town
+
+	history={
+		owner = DUG
+
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			arms_factory = 2
+
+		}
+
+		add_core_of = DUG
+	}
+
+	provinces={
+		13459 13552 13676 13787 13788 13878 13899 13912 13967 14044 14045 14074 14125 14168 14169 14225 14294 
+	}
+}

@@ -1,0 +1,21 @@
+
+state={
+	id=101
+	name="STATE_101"
+	provinces={
+		7580 7581 7596 7640 7730 7748 7832 7841 7903 7940 7954 
+	}
+
+	state_category = rural
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = AFG
+	}
+
+	manpower=448755
+	buildings_max_level_factor=1.000
+}

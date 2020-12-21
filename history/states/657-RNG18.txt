@@ -1,0 +1,20 @@
+state={
+	id=657
+	name="STATE_657"
+	provinces={
+		14331 14332 14470 14491 14512 14575 14576 14616 14632 14683 14711 14786 14818 14862 14948 15005 
+	}
+
+	state_category = rural
+
+	history={
+		owner = RNS
+		buildings = {
+			infrastructure = 8
+		}	
+		add_core_of = RNS
+	}
+	
+	manpower=8000000
+	buildings_max_level_factor=1.000
+}

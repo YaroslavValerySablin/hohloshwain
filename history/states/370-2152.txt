@@ -1,0 +1,19 @@
+state={
+	id=370
+	name="STATE_370"
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRE
+	}
+	provinces={
+		17428 17566 17581 17582 17597 17759 17775 17787 17788 17975 17989 18006 18077 18190 18197 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=482
+	name="STATE_482"
+	provinces={
+		10473 10487 10503 10538 10539 10596 10597 10640 10656 10688 10736 10737 10778 10897 10898 10931 
+	}
+
+	state_category = rural
+
+	history={
+		owner = ZLS	
+		add_core_of = ZLS
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

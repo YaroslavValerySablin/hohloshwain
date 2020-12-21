@@ -1,0 +1,24 @@
+state={
+	id=968
+	name="STATE_968"
+
+	manpower=999999
+
+	state_category = rural
+	
+	history={
+		owner = MNG
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+		}
+		add_core_of = MNG
+		add_core_of = MNG
+	}
+
+
+	provinces={
+		3257 3292 3303 3382 3407 3424 3453 3479 3507 3519 3591 3609 
+	}
+	buildings_max_level_factor=1.000
+}

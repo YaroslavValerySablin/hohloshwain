@@ -1,0 +1,23 @@
+state={
+	id=1314
+	name="STATE_1314"
+
+	history={
+		owner = MRK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = MRK
+
+	}
+	
+     	state_category = rural
+	manpower=176508
+
+	provinces={
+		2426 2438 2439 
+	}
+	buildings_max_level_factor=1.000
+}

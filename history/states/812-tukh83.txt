@@ -1,0 +1,17 @@
+state={
+	id=812
+	name="STATE_812"
+	provinces={
+		17898 18004 18057 18105 18174 18175 18215 
+	}
+
+	history={
+		owner = NAP
+		buildings = {
+			infrastructure = 6		
+		add_core_of = NAP
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

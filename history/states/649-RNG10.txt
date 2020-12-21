@@ -1,0 +1,26 @@
+
+
+state={
+	id=649
+	name="STATE_649"
+	manpower = 800500
+	
+	state_category = town
+
+	history={
+		owner = CCT
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 8
+
+		}
+
+		add_core_of = CCT
+	}
+
+	provinces={
+		12983 13066 13160 13207 13311 13332 13361 13428 13456 13550 
+	}
+}

@@ -1,0 +1,23 @@
+state={
+	id=804
+	name="STATE_804"
+	provinces={
+		16112 16219 16220 16254 16340 16355 16370 16429 16498 16538 16539 16582 16701 16748 16749 16772 16793 
+	}
+
+	state_category = rural
+
+	history={
+		owner = UMO
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}	
+		add_core_of = UMO
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

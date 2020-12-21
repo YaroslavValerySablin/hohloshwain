@@ -1,0 +1,17 @@
+state={
+	id=811
+	name="STATE_811"
+	provinces={
+		17541 17655 17679 17773 17846 17863 
+	}
+	state_category = rural
+	history={
+		owner = NAP
+		buildings = {
+			infrastructure = 6	
+		add_core_of = NAP
+	}
+
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

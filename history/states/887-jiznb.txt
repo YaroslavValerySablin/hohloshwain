@@ -1,0 +1,23 @@
+state={
+	id=887
+	name="STATE_887"
+
+	manpower=1231515
+
+	state_category = rural
+	
+	history={
+		owner = MNG
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = MNG
+		add_core_of = MNG
+	}
+
+
+	provinces={
+		3536 3548 3549 3590 3632 3663 3698 3756 3757 3801 3810 3819 3894 3900 3912 3937 3979 4000 4012 4088 
+	}
+	buildings_max_level_factor=1.000
+}

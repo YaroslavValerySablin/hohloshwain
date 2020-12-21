@@ -1,0 +1,25 @@
+
+state={
+	id=1040
+	name="STATE_1040"
+	manpower = 2240500
+	
+	state_category = town
+
+	history={
+		owner = KEB
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 5
+			arms_factory = 3
+
+		}
+
+		add_core_of = KEB
+	}
+
+	provinces={
+		7470 7486 7603 7604 7610 7664 7713 7725 7754 7794 7827 7898 
+	}
+}

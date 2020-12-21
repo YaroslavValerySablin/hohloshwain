@@ -1,0 +1,21 @@
+state={
+	id=1154
+	name="STATE_1154"
+	provinces={
+		3524 3564 3686 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = KNM
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 2
+		}
+		add_core_of = KNM
+	}
+	manpower = 3780650
+	buildings_max_level_factor=1.000
+}

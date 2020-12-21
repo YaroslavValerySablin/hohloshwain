@@ -1,0 +1,20 @@
+state={
+	id=752
+	name="STATE_752"
+	provinces={
+		18699 18754 18794 18871 18902 18956 19043 19044 19045 19077 19135 19183 19208 
+	}
+
+	state_category = rural
+
+	history={
+		owner = TUC
+		buildings = {
+			infrastructure = 6
+		}	
+		add_core_of = TUC
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

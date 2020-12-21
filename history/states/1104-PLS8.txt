@@ -1,0 +1,25 @@
+
+state={
+	id=1104
+	name="STATE_1104"
+	manpower = 2003003
+	
+	state_category = town
+
+	history={
+		owner = PLS
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+
+		}
+
+		add_core_of = PLS
+	}
+
+	provinces={
+	   1533 1534 1615 1667 1711 1737 1782 
+	}
+}

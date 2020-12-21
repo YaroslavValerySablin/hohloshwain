@@ -1,0 +1,26 @@
+
+
+state={
+	id=1108
+	name="STATE_1108"
+	manpower = 1003003
+	
+	state_category = town
+
+	history={
+		owner = VKN
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+
+		}
+
+		add_core_of = VKN
+	}
+
+	provinces={
+	   306 307 311 322 344 360 365 366 390 416 422 423 429 430 436 463 497 504 505 
+	}
+}

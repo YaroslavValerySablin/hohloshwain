@@ -1,0 +1,23 @@
+
+state={
+	id=297
+	name="STATE_297"
+	provinces={
+		10784 10904 10986 11117 11135 11322 11433 11460 11530 11549 11675 11719 11931 
+	}
+	
+	state_category = rural
+
+	history={
+		owner = LAT
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = LAT
+	}
+
+	manpower=2054441
+	buildings_max_level_factor=1.000
+}

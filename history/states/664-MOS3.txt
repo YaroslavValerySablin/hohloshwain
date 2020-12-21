@@ -1,0 +1,23 @@
+state={
+	id=664
+	name="STATE_664"
+	provinces={
+		14883 14926 14962 15038 15079 15095 15096 15220 15234 15266 15289 15425 15472 15491 15612 15704 15152 15173 15219 15309 15392 15490  
+	}
+
+	state_category = town
+
+	history={
+		owner = MOS
+		buildings = {
+			infrastructure = 10
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}		
+		add_core_of = MOS
+	}
+
+	manpower=20000000
+	buildings_max_level_factor=1.000
+}

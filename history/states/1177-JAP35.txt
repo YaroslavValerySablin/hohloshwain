@@ -1,0 +1,21 @@
+state={
+	id=1177
+	name="STATE_1177"
+	provinces={
+		3126 3222 
+	}
+
+        state_category = rural
+ 
+	history={
+		owner = MRJ
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 3
+		}
+		add_core_of = MRJ
+	}
+	manpower=890540
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=464
+	name="STATE_464"
+
+	state_category = rural
+
+	history={
+		owner = PRE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRE
+	}
+
+	provinces={
+		16563 17092 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

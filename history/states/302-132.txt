@@ -1,0 +1,22 @@
+
+state={
+	id=302
+	name="STATE_302"
+	provinces={
+		19477 19504 19523 19600 19607 19655 19672 19701 19793 
+	}
+
+	state_category = rural
+
+	history={
+		owner = EBE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = EBE
+	}
+
+	manpower=2721421
+	buildings_max_level_factor=1.000
+}

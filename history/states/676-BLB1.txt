@@ -1,0 +1,24 @@
+state={
+	id=676
+	name="STATE_676"
+
+	manpower=999999
+
+	state_category = rural
+
+	history={
+		owner = CSS
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		add_core_of = CSS
+		add_core_of = CSS
+	}
+
+	provinces={
+		11572 11688 11734 11820 11867 11988 12032 12033 12179 
+	}
+	buildings_max_level_factor=1.000
+}

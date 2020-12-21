@@ -1,0 +1,19 @@
+state={
+	id=1327
+	name="STATE_1327"
+	provinces={
+		6487 6574 6586 6623 6650 6709 6726 6751 6805 6879 6905 6921 6977 7043 7059 7149 
+	}
+	state_category = rural
+
+	history={
+		owner = KOK
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		add_core_of = KOK
+	}
+	manpower=4188418
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=840
+	name="STATE_840"
+	provinces={
+		20130 20131 20170 20184 20234 
+	}
+
+	state_category = rural
+
+	history={
+		owner = GUL
+		buildings = {
+			infrastructure = 6
+		}	
+		add_core_of = GUL
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

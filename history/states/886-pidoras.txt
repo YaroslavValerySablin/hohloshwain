@@ -1,0 +1,25 @@
+state={
+	id=886
+	name="STATE_886"
+
+	manpower=2282282
+
+	state_category = rural
+
+	history={
+		owner = VOD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 3
+		}
+		add_core_of = VOD
+		add_core_of = VOD
+	}
+
+	provinces={
+		3746 3755 3787 3809 3892 3893 3978 3988 4024 4087 4115 4127 
+	}
+	buildings_max_level_factor=1.000
+}

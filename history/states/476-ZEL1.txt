@@ -1,0 +1,18 @@
+state={
+	id=476
+	name="STATE_476"
+	provinces={
+		12133 12228 12242 12243 12407 12480 12505 12605 12673 12698 12716 12865 12938 12964 13039 
+	}
+
+	state_category = rural
+
+	history={
+		owner = KIV	
+		add_core_of = KIV
+	}
+	
+    }
+	manpower=0
+	buildings_max_level_factor=1.000
+}

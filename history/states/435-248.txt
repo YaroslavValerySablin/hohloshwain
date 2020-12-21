@@ -1,0 +1,23 @@
+
+state={
+	id=435
+	name="STATE_435"
+	provinces={
+		18279 18430 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NOD
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		add_core_of = NOD
+	}
+
+	manpower=30212
+	buildings_max_level_factor=1.000
+}

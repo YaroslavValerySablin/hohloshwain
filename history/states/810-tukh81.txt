@@ -1,0 +1,21 @@
+state={
+	id=810
+	name="STATE_810"
+	provinces={
+		17089 17206 17219 17360 17473 17512 
+	}
+	state_category = rural
+	history={
+		owner = OZO
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 4
+			air_base = 4
+		}		
+		add_core_of = OZO
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

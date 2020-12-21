@@ -1,0 +1,25 @@
+
+state={
+	id=1047
+	name="STATE_1047"
+	manpower = 240500
+	
+	state_category = town
+
+	history={
+		owner = CNB
+
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 2
+
+		}
+
+		add_core_of = CNB
+	}
+
+	provinces={
+		1830 1840 1854 1863 1889 1907 1931 1984 1999 2009 2010 2038 2055 2167 2197 2225 2261 2275 2276 2310 2337 2362 2422 
+	}
+}

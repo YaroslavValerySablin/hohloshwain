@@ -1,0 +1,22 @@
+
+state={
+	id=323
+	name="STATE_323"
+	provinces={
+		15690 15834 15965 16012 16304 
+	}
+
+	state_category = rural
+
+	history={
+		owner = LET
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = LET
+	}
+
+	manpower=1430123
+	buildings_max_level_factor=1.000
+}

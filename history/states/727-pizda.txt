@@ -1,0 +1,25 @@
+
+state={
+	id=727
+	name="STATE_727"
+	manpower = 14881488
+	
+	state_category = rural
+
+	history={
+		owner = KER
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = KER
+	}
+
+	provinces={
+		10066 10111 10176 10272 
+	}
+}

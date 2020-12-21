@@ -1,0 +1,22 @@
+state={
+	id=688
+	name="STATE_688"
+
+	manpower=863524
+
+	state_category = rural
+
+	history={
+		owner =  BRK
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+		}
+		add_core_of =  BRK
+	}
+
+	provinces={
+		8938 9019 9084 9113 9227 9248 9282 
+	}
+	buildings_max_level_factor=1.000
+}

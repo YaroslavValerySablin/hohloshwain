@@ -1,0 +1,23 @@
+
+
+state={
+	id=396
+	name="STATE_396"
+	provinces={
+		14357 14455 14559 14620 14637 14695 14740 14826 14843 14844 14892 14951 15063 15125 15164 15238 15318 15319 15568 15585 15675 15876 
+	}
+
+	state_category = rural
+
+	history={
+		owner = NRT
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = NRT
+	}
+
+	manpower=111543
+	buildings_max_level_factor=1.000
+}

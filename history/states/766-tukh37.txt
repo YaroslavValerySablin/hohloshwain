@@ -1,0 +1,20 @@
+state={
+	id=766
+	name="STATE_766"
+	provinces={
+		12989 13012 13337 13406 13407 13511 13652 13706 13808 13942 14016 14127 
+	}
+
+	state_category = rural
+
+	history={
+		owner = SHY
+		buildings = {
+			infrastructure = 6
+		}	
+		add_core_of = SHY
+	}
+	
+	manpower=7000000
+	buildings_max_level_factor=1.000
+}

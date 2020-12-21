@@ -1,0 +1,23 @@
+
+state={
+	id=363
+	name="STATE_363"
+
+	state_category = rural
+
+	history={
+		owner = DUR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = DUR
+
+	}
+
+	provinces={
+		15292 15443 15566 15632 15651 15674 15721 15893 15915 16004 
+	}
+	manpower=253341
+	buildings_max_level_factor=1.000
+}

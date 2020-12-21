@@ -1,0 +1,26 @@
+
+state={
+	id=783
+	name="STATE_783"
+	manpower = 168825
+	
+	state_category = town
+
+	history={
+		owner = TAR
+
+		buildings = {
+			infrastructure = 6
+			arms_factory = 4
+			industrial_complex = 3
+			
+
+		}
+
+		add_core_of = TAR
+	}
+
+	provinces={
+		14884 14928 15026 15058 15097 15197 15198 15235 15267 15335 15412 15439  
+	}
+}

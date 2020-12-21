@@ -1,0 +1,25 @@
+
+state={
+	id=1072
+	name="STATE_1072"
+	manpower = 338500
+	
+	state_category = rural
+
+	history={
+		owner = CNB
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+		add_core_of = CNB
+	}
+
+	provinces={
+		4413 4559 4712 
+	}
+}

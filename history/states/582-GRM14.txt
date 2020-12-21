@@ -1,0 +1,24 @@
+
+state={
+	id=582
+	name="STATE_582"
+
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = SAU
+
+	}
+
+	provinces={
+		14071 14165 14195 14349 14392 
+	}
+	manpower=1980076
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

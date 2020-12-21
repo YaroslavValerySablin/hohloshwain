@@ -1,0 +1,25 @@
+
+state={
+	id=169
+	name="STATE_169"
+
+	state_category = rural
+
+	history={
+		owner = KIN
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 2
+			arms_factory = 2
+
+		}
+		add_core_of = KIN
+
+	}
+
+	provinces={
+		12969 13106 13296 13319 13415 13588 13685 13750 14001 14107 14173 14535 
+	}
+	manpower=1287418
+	buildings_max_level_factor=1.000
+}
