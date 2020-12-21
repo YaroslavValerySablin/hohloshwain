@@ -5,19 +5,19 @@ oob = "USA_1936"
 set_convoys = 400
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = burjuism
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 99
-	communism = 1
+	burjuism = 99
+	borshewism = 1
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = democratic
+		ruling_party = burjuism
 		last_election = "1936.11.3"
 		election_frequency = 48
 		elections_allowed = yes
@@ -29,7 +29,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 	
 	}
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -51,7 +51,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -84,7 +84,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -95,7 +95,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

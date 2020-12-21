@@ -3,14 +3,14 @@
 oob = "CHI_1936"
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = pahanism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	neutrality = 100
+	pahanism = 100
 }
 
 create_country_leader = {
@@ -18,7 +18,7 @@ create_country_leader = {
 	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
 	picture = "Portrait_China_Chiang_Kai_Shek.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 	
 	}
@@ -29,7 +29,7 @@ create_country_leader = {
 	desc = "POLITICS_ZHANG_GUOTAO_DESC"
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = gribonism
 	traits = {
 
 	}
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_WANG_JINGWEI_DESC"
 	picture = "GFX_portrait_chi_wang_jingwei"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		#
 	}
@@ -51,7 +51,7 @@ create_country_leader = {
 	desc = "POLITICS_ZHANG_LAN_DESC"
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = jididoism
 	traits = {
 		#
 	}
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -84,7 +84,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -95,7 +95,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

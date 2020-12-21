@@ -5,15 +5,15 @@ oob = "SOV_1936"
 set_convoys = 50
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = borshewism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 10
-	fascism = 2
-	communism = 88
+	burjuism = 10
+	bidlo = 2
+	borshewism = 88
 }
 
 create_country_leader = {
@@ -21,7 +21,7 @@ create_country_leader = {
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
 	picture = "Portrait_Soviet_Joseph_Stalin.dds"
 	expire = "1953.3.1"
-	ideology = stalinism
+	ideology = naziborshewism
 	traits = {
 		
 	}
@@ -32,7 +32,7 @@ create_country_leader = {
 	desc = "POLITICS_KONSTANTIN_RODZAEVSKY_DESC"
 	picture = "Portrait_Soviet_Konstantin_Rodzaevsky.dds"
 	expire = "1953.3.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -43,7 +43,7 @@ create_country_leader = {
 	desc = "POLITICS_ALEXANDER_FYODOROVICH_KERENSKY_DESC"
 	picture = "Portrait_Soviet_Generic_1.dds"
 	expire = "1953.3.1"
-	ideology = socialism
+	ideology = jididoism
 	traits = {
 		
 	}
@@ -54,7 +54,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

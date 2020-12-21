@@ -1,4 +1,4 @@
-capital = 580
+capital = 572
 
 oob = "SAU_0000"
 
@@ -30,22 +30,58 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = fascism 
+	ruling_party = bidlo 
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	democratic = 17
-	communism = 5
-	fascism = 78
+	burjuism = 17
+	borshewism = 5
+	bidlo = 78
+}
+
+create_faction = Edible
+add_to_faction = SAU
+add_to_faction = CZE
+add_to_faction = PAS
+
+
+create_country_leader = {
+	name = "Wieners"
+	desc = ""
+	picture = "SAS_D.dds"
+	expire = "1953.3.1"
+	ideology = conserva
 }
 
 create_country_leader = {
-    name = "Sausage" 
-    desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
-    expire = "1965.1.1"
-    ideology = nazism
+	name = "Bavarian Sausage"
+	desc = ""
+	picture = "SAS_F.dds"
+	expire = "1965.1.1"
+	ideology = nazi
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Sausage"
+	desc = ""
+	picture = "SAS_N.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism
+}
+
+create_country_leader = {
+	name = "Doctor Sausage"
+	desc = ""
+	picture = "SAS_C.dds"
+	expire = "1965.1.1"
+	ideology = koksxism
+	traits = {
+		#
+	}
 }

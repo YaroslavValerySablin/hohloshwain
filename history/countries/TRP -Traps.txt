@@ -1,6 +1,6 @@
 capital = 958
 
-oob = "ETH_0000"
+oob = "TRP_0000"
 
 set_research_slots = 3
 set_convoys = 75
@@ -30,14 +30,12 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = burjuism
+	ruling_party = borshewism
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	democratic = 5
-	communism = 89
-	fascism = 6
+	borshewism = 100
 }

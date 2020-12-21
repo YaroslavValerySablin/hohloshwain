@@ -5,15 +5,15 @@ oob = "ITA_1936"
 set_convoys = 200
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = bidlo
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 22
-	fascism = 76
-	communism = 2
+	burjuism = 22
+	bidlo = 76
+	borshewism = 2
 }
 
 create_country_leader = {
@@ -21,7 +21,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "Portrait_Italy_Benito_Mussolini.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -32,7 +32,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "GFX_portrait_italy_ferruccio_parri"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = jididoism
 	traits = {
 		
 	}
@@ -43,7 +43,7 @@ create_country_leader = {
 	desc = "POLITICS_BENITO_MUSSOLINI_DESC"
 	picture = "GFX_portrait_ita_palmiro_togliatti"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -54,7 +54,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -65,7 +65,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -76,7 +76,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -87,7 +87,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

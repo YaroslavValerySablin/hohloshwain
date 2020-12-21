@@ -54,6 +54,6 @@ set_politics = {
 }
 
 set_popularities = {
-	neutrality = 100
+	pahanism = 100
 }
 

@@ -37,9 +37,9 @@ set_politics = {
 
 
 set_popularities = {
-	democratic = 5
-	fascism = 89
-	communism = 6
+	burjuism = 5
+	bidlo = 89
+	borshewism = 6
 }
 
 create_country_leader = {
@@ -47,5 +47,5 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
     expire = "1965.1.1"
-    ideology = fascism_ideology
+    ideology = bidlo_ideology
 }

@@ -1,0 +1,29 @@
+﻿capital = 288
+
+oob = "SKY_0000"
+
+set_technology = {
+ 
+}
+set_convoys = 5
+
+
+
+set_politics = {	
+	ruling_party = pahanism 
+	last_election = "4171.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	borshewism = 20
+	bidlo = 45
+	pahanism = 35
+}
+
+create_country_leader = {
+	name = "Istlod"
+	picture = "Istlod.dds"
+	ideology = centpahanism
+}

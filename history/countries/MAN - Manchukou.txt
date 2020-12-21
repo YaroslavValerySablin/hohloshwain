@@ -3,14 +3,14 @@
 oob = "MAN_1936"
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = bidlo
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 80
-	neutrality = 20
+	bidlo = 80
+	pahanism = 20
 }
 
 create_country_leader = {
@@ -18,7 +18,7 @@ create_country_leader = {
 	
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
-	ideology = rexism
+	ideology = gopnik
 	traits = {
 		
 	}
@@ -29,7 +29,7 @@ create_country_leader = {
 	
 	picture = "gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"
 	expire = "1960.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 		
 	}
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -51,7 +51,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

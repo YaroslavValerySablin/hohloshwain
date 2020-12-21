@@ -1,4 +1,4 @@
-﻿capital = 111
+﻿capital = 1046
 
 oob = "CNB_0000"
 
@@ -18,152 +18,28 @@ set_technology = {
 set_convoys = 3
 
 
+
 set_politics = {
+	ruling_party = bidlo 
+	last_election = "0000.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
+}
 
-	parties = {
-		burjuism = { 
-			popularity = 10
-		}
-
-		bidlo = {
-			popularity = 10
-		}
-		
-		borshewism = {
-			popularity = 1
-		}
-
-		pahanism = {
-			popularity = 79
-		}
-	}
-	
-	ruling_party = pahanism
-	last_election = "1933.7.1"
-	election_frequency = 36
-	elections_allowed = yes
+set_popularities = {
+	burjuism = 10
+	pahanism = 79
+	bidlo = 10
+	borshewism = 1
 }
 
 create_country_leader = {
-	name = "Risto Heikki Ryti"
-	desc = "POLITICS_RISTO_HEIKKI_RYT_DESC"
-	picture = "Portrait_Finland_Risto_Heikki_Ryti.dds"
-	expire = "1965.1.1"
-	ideology = liberaha
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Aimo Aaltonen"
-	desc = "POLITICS_AIMO_AALTONEN_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = koksxism
-	traits = {
-		#
-	}
-}
-
-create_country_leader = {
-	name = "Vilho Annala"
-	desc = "POLITICS_VILHO_ANNALA_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+	name = "Carl Gustav Emil Mannernigger"
+	desc = ""
+	picture = "mannernigger.dds"
 	expire = "1965.1.1"
 	ideology = nazi
 	traits = {
 		#
-	}
-}
-
-create_country_leader = {
-	name = "Petro Tretyakov"
-	desc = ""
-	picture = "gfx/leaders/FIN/Portrait_Finland_Kyosti_Kallio.dds"
-	expire = "1965.1.1"
-	ideology = centpahanism
-	traits = {
-		#
-	}
-}
-
-
-
-add_ideas = {
-	sisu
-}
-
-create_corps_commander = {
-	name = "Erik Heinrichs"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
-	traits = { winter_specialist ranger }
-	skill = 4
-    attack_skill = 4
-    defense_skill = 4
-    planning_skill = 3
-    logistics_skill = 2
-}
-
-create_corps_commander = {
-	name = "Vilho Petter Nenonen"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	traits = { winter_specialist commando }
-	skill = 3
-    attack_skill = 3
-    defense_skill = 1
-    planning_skill = 4
-    logistics_skill = 2
-}
-
-### VARIANTS ###
-# 0000 Start #
-if = {
-	limit = { not = { has_dlc = "Man the Guns" } }
-	### Ship Variants ###
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-	# Submarines #
-	create_equipment_variant = {
-		name = "Vetehinen Class"								
-		type = ship_hull_submarine_1
-		name_group = FIN_SS_HISTORICAL
-		parent_version = 0
-		modules = {
-			fixed_ship_torpedo_slot = ship_torpedo_sub_1
-			fixed_ship_engine_slot = sub_ship_engine_1
-			rear_1_custom_slot = ship_mine_layer_sub
-		}
-	}
-	create_equipment_variant = {
-		name = "Vesikko Class"								
-		type = ship_hull_submarine_1
-		name_group = FIN_SS_HISTORICAL
-		parent_version = 0
-		modules = {
-			fixed_ship_torpedo_slot = ship_torpedo_sub_1
-			fixed_ship_engine_slot = sub_ship_engine_1
-			rear_1_custom_slot = empty
-		}
-	}
-	# Heavy Cruisers #
-	create_equipment_variant = {
-		name = "Väinämöinen Class"				
-		type = ship_hull_cruiser_coastal_defense_ship
-		name_group = FIN_CA_HISTORICAL
-		parent_version = 0
-		modules = {
-			fixed_ship_battery_slot = ship_heavy_battery_1
-			fixed_ship_anti_air_slot = ship_anti_air_1
-			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
-			fixed_ship_radar_slot = empty
-			fixed_ship_engine_slot = cruiser_ship_engine_1
-			fixed_ship_armor_slot = ship_armor_cruiser_1
-			fixed_ship_secondaries_slot = ship_secondaries_1
-			mid_1_custom_slot = empty
-			mid_2_custom_slot = empty
-			rear_1_custom_slot = empty
-		}
 	}
 }

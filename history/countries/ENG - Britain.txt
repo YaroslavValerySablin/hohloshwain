@@ -7,20 +7,20 @@ create_country_leader = {
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
 	picture = "Portrait_Britain_Neville_Chamberlain.dds"
 	expire = "1965.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
 }
 	
 set_politics = {
-	ruling_party = democratic
+	ruling_party = burjuism
 	last_election = "1935.11.14"
 	election_frequency = 48
 	elections_allowed = yes ##suspended through duration of war, which is handled via event
 }
-set_popularities = {	democratic = 97	fascism = 2
-	communism = 1
+set_popularities = {	burjuism = 97	bidlo = 2
+	borshewism = 1
 }
 
 create_country_leader = {
@@ -28,7 +28,7 @@ create_country_leader = {
 	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
 	picture = "Portrait_Britain_Winston_Churchill.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conserva
 	traits = {
 		#traits here need to also be added to events britain.9 and britain.10. Don't ask why.
 	}
@@ -40,7 +40,7 @@ create_country_leader = {
 	desc = "POLITICS_STANLEY_BALDWIN_DESC"
 	picture = "gfx//leaders//ENG//Portrait_Britain_Stanley_Baldwin.dds"
 	expire = "1938.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -51,7 +51,7 @@ create_country_leader = {
 #	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
 #	picture = "Portrait_Britain_Neville_Chamberlain.dds"
 #	expire = "1965.1.1"
-#	ideology = liberalism
+#	ideology = liberaha
 #	traits = {
 #		
 #	}
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = "POLITICS_OSWALD_MOSLEY_DESC"
 	picture = "Portrait_Britain_Oswald_Mosley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = "POLITICS_HARRY_POLLITT_DESC"
 	picture = "portrait_eng_harry_pollitt.dds"
 	expire = "1965.1.1"
-	ideology = leninism
+	ideology = gribonism
 	traits = {
 		
 	}
@@ -84,7 +84,7 @@ create_country_leader = {
 #	desc = "POLITICS_PALME_DUTT_DESC"
 #	picture = "Portrait_Britain_Palme_Dutt.dds"
 #	expire = "1965.1.1"
-#	ideology = leninism
+#	ideology = gribonism
 #	traits = {
 #		
 #	}
@@ -95,7 +95,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -106,7 +106,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -117,7 +117,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -128,7 +128,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

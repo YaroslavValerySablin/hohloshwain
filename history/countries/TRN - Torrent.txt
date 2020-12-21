@@ -36,8 +36,8 @@ set_politics = {
 
 
 set_popularities = {
-	democratic = 2
-	neutrality = 94
-	fascism = 2
-	communism = 2
+	burjuism = 2
+	pahanism = 94
+	bidlo = 2
+	borshewism = 2
 }

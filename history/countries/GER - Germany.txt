@@ -3,15 +3,15 @@
 oob = "GER_1936"
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = bidlo
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 20
-	fascism = 60
-	communism = 20
+	burjuism = 20
+	bidlo = 60
+	borshewism = 20
 }
 
 create_country_leader = {
@@ -19,7 +19,7 @@ create_country_leader = {
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "Portrait_Germany_Adolf_Hitler.dds"
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = nazi
 	traits = {
 	}
 }
@@ -29,7 +29,7 @@ create_country_leader = {
 	desc = "POLITICS_KONRAD_ADENAUER_DESC"
 	picture = "Portrait_Germany_Konrad_Adenauer.dds"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = conserva
 	traits = {
 	}
 }
@@ -39,7 +39,7 @@ create_country_leader = {
 	desc = "POLITICS_WILHELM_PIECK_DESC"
 	picture = "Portrait_Germany_Wilhelm_Pieck.dds"
 	expire = "1965.1.1"
-	ideology = stalinism
+	ideology = naziborshewism
 	traits = {
 		
 	}
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
 	picture = "Portrait_USA_Franklin_Roosevelt.dds"
 	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = liberaha
 	traits = {
 		
 	}
@@ -61,7 +61,7 @@ create_country_leader = {
 	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
 	picture = "Portrait_USA_William_Dudley_Pelley.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = bidlo_ideology
 	traits = {
 		
 	}
@@ -72,7 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_EARL_BROWDER_DESC"
 	picture = "portrait_USA_earl_browder.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = koksxism
 	traits = {
 		
 	}
@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_HAILE_SELASSIE_DESC"
 	picture = "Portrait_Ethiopia_Haile_Selassie.dds"
 	expire = "1965.1.1"
-	ideology = despotism
+	ideology = despopahanism
 	traits = {
 
 	}

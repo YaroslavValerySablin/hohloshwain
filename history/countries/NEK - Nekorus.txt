@@ -29,22 +29,22 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = communism 
+	ruling_party = borshewism 
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	democratic = 5
-	communism = 89
-	fascism = 6
+	burjuism = 5
+	borshewism = 89
+	bidlo = 6
 }
 
 create_country_leader = {
     name = "Mikola Zimenko" 
     desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+    picture = "Mikola.dds"
     expire = "1965.1.1"
-    ideology = leninism
+    ideology = gribonism
 }

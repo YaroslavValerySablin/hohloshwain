@@ -1,4 +1,4 @@
-capital = 607
+capital = 609
 
 oob = "BUL_0000"
 
@@ -29,21 +29,25 @@ set_technology = {
 	fleet_in_being = 1
 }
 
+
 set_politics = {
-	ruling_party = communism 
+	ruling_party = pahanism
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	communism = 100
+	burjuism = 10
+	bidlo = 10
+	borshewism = 1
+	pahanism = 79
 }
 
 create_country_leader = {
-    name = "Baba Vanga" 
-    desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
-    expire = "1965.1.1"
-    ideology = anti_revisionism
+	name = "Cat Boris"
+	desc = ""
+	picture = "kotboris.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism
 }

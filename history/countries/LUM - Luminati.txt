@@ -35,10 +35,10 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 2
-	neutrality = 94
-	fascism = 2
-	communism = 2
+	burjuism = 2
+	pahanism = 94
+	bidlo = 2
+	borshewism = 2
 }
 
 create_country_leader = {
@@ -46,5 +46,5 @@ create_country_leader = {
     desc = ""
     picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
     expire = "1965.1.1"
-    ideology = despotism
+    ideology = despopahanism
 }

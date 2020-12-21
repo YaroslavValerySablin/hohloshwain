@@ -1,4 +1,4 @@
-capital = 1220
+capital = 18
 
 oob = "KUR_0000"
 
@@ -11,11 +11,11 @@ set_stability = 0.34
 set_war_support = 0.76
 
 set_popularities = {
-	pahanism = 100
+	borshewism = 100
 }
 
 set_politics = {
-	ruling_party = pahanism
+	ruling_party = borshewism
 	last_election = "1.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -25,5 +25,5 @@ create_country_leader = {
 	name = "Kurdish Union"
 	desc = ""
 	picture = "kurdish_union.dds"
-	ideology = despopahanism
+	ideology = koksxism
 }

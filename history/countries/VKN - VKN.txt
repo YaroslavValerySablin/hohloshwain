@@ -1,6 +1,6 @@
-capital = 625
+capital = 1110
 
-oob = "BAL_0000"
+oob = "VKN_0000"
 
 set_research_slots = 3
 set_convoys = 10
@@ -30,22 +30,20 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = communism 
+	ruling_party = bidlo 
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	democratic = 17
-	communism = 73
-	fascism = 10
+	bidlo = 100
 }
 
 create_country_leader = {
-    name = "Shabanis" 
+    name = "Asb'yorn Surovyy" 
     desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+    picture = "viking.dds"
     expire = "1965.1.1"
-    ideology = marxism
+    ideology = nazi
 }

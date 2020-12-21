@@ -1,4 +1,4 @@
-capital = 15338
+capital = 311
 
 oob = "ZMR_0000"
 
@@ -23,31 +23,21 @@ set_technology = {
 set_convoys = 150
 set_stability = 0.5
 
-set_politics = {
 
-	parties = {
-		burjuism = { 
-			popularity = 20
-		}
-		bidlo = {
-			popularity = 0
-		}
-		borshewism = {
-			popularity = 40
-		}
-		pahanism = { 
-			popularity = 40
-		}
-	}
-	
-	ruling_party = pahanism
-	last_election = "1932.10.16"
-	election_frequency = 48
-	elections_allowed = yes
+set_politics = {
+	ruling_party = bidlo
+	last_election = "0000.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
 }
 
+set_popularities = {
+	bidlo = 100
+}
+
+
 create_country_leader = {
-	name = "Mama"
+	name = ""
 	desc = ""
 	picture = "dem.dds"
 	expire = "1953.3.1"
@@ -55,15 +45,15 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Rejim knyagini Dvachevskoi"
+	name = "Sauron"
 	desc = ""
-	picture = "fac.dds"
+	picture = "sauron.dds"
 	expire = "1965.1.1"
 	ideology = nazi
 }
 
 create_country_leader = {
-	name = "emir El'-Bitard"
+	name = ""
 	desc = ""
 	picture = "neu.dds"
 	expire = "1965.1.1"
@@ -71,7 +61,7 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Anonim"
+	name = ""
 	desc = ""
 	picture = "com.dds"
 	expire = "1965.1.1"

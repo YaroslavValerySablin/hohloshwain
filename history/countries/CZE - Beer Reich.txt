@@ -29,22 +29,55 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = fascism 
+	ruling_party = bidlo 
 	last_election = "0000.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	democratic = 5
-	fascism = 89
-	communism = 6
+	burjuism = 5
+	bidlo = 89
+	borshewism = 6
 }
 
 create_country_leader = {
-    name = "Pivandopola" 
-    desc = ""
-    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
-    expire = "1965.1.1"
-    ideology = fascism_ideology
+	name = "Staropramen"
+	desc = ""
+	picture = "BER_D.dds"
+	expire = "1965.1.1"
+	ideology = conserva
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Budweiser"
+	desc = ""
+	picture = "BER_F.dds"
+	expire = "1965.1.1"
+	ideology = nazi
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Velkopopovicky Kozel"
+	desc = ""
+	picture = "BER_C.dds"
+	expire = "1965.1.1"
+	ideology = naziborshewism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Pilsner Urquell"
+	desc = ""
+	picture = "BER_N.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism
 }
