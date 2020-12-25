@@ -9,6 +9,15 @@ state={
 
 	history={
 		owner = SAU
+		victory_points = {
+			13892 25 
+		}
+		victory_points = {
+			 14011 10
+		}
+		victory_points = {
+			 13424 10
+		}
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2

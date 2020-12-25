@@ -1,4 +1,4 @@
-capital = 609
+capital = 608
 
 oob = "BUL_0000"
 

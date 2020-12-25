@@ -169,7 +169,7 @@ GON = "countries/GON.txt"
 UMO = "countries/UMO.txt"
 ROC = "countries/ROC.txt"
 CHE = "countries/Chechnya.txt"
-BAR = "countries/barkov.txt"
+BRK = "countries/barkov.txt"
 PRA = "countries/pravos.txt"
 RAP = "countries/casacs.txt"
 CSS = "countries/Rap.txt"
@@ -189,6 +189,8 @@ PLS = "countries/PLS.txt"
 VKN = "countries/VKN.txt"
 PRX = "countries/PRX.txt"
 CUB = "countries/CUB.txt"
+MRK = "countries/MRK.txt"
+BAR = "countries/BAR.txt"
 
 
 

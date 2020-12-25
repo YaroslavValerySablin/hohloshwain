@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = MUS
+		victory_points = {
+			 10374 50
+		}
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

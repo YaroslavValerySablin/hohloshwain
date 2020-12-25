@@ -1,0 +1,41 @@
+﻿capital = 9
+
+oob = "IRQ_0000"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	early_fighter = 1
+	CAS1 = 1
+	fuel_silos = 1
+}
+
+
+set_convoys = 5
+
+
+
+set_politics = {
+	ruling_party = pahanism 
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	bidlo = 20
+	pahanism = 80
+}
+
+create_country_leader = {
+	name = "Saddam Сocksein"
+	desc = "POLITICS_GHAZI_I_DESC"
+	picture = "Saddamhussein.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism
+	traits = {
+		#
+	}
+}

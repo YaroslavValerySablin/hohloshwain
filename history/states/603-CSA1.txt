@@ -8,7 +8,9 @@ state={
 
 	history={
 		owner = TSA
-
+		victory_points = {
+			 8838 50
+		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3

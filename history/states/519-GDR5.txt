@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = DDR
+		victory_points = {
+			 13800 50
+		}
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2

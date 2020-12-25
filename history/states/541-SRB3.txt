@@ -1,22 +1,30 @@
+
 state={
 	id=541
 	name="STATE_541"
-	provinces={
-		9554 9599 9613 9651 9669 9670 9705 9759 9808 9846 9864 9945 9946 9947 10064 10091 
-	}
-
-	state_category = rural
 
 	history={
 		owner = SRB
+		victory_points = {
+			 9946 50
+		}
+		victory_points = {
+			 9759 15
+		}
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2
 			industrial_complex = 3
+
 		}
 		add_core_of = SRB
+
 	}
 
+	provinces={
+		9554 9599 9613 9651 9669 9670 9705 9759 9808 9846 9864 9945 9946 9947 
+	}
 	manpower=3610901
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
