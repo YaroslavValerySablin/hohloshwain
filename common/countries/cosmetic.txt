@@ -1,0 +1,10 @@
+
+SKY_IPR = {
+    color = hex { 0xdc143c } 
+    color_ui = hex { 0xdc143c } 
+}
+
+GVN_IPR = {
+    color = hex { 0xdc143c } 
+    color_ui = hex { 0xdc143c } 
+}
