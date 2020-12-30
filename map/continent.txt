@@ -1,0 +1,11 @@
+continents = {
+	siberia
+	europe
+	amfrica
+	fennoscandia
+	eastan
+	islenia
+	fortnite
+	antarcherv
+	komerica
+}
