@@ -5,14 +5,14 @@ state={
 	state_category = rural
 
 	history={
-		owner = LET
+		owner = PLA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
 			arms_factory = 1
 
 		}
-		add_core_of = LET
+		add_core_of = PLA
 
 	}
 	provinces={

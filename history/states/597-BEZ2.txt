@@ -1,25 +1,27 @@
+
 state={
 	id=597
 	name="STATE_597"
-	provinces={
-		8055 8259 
-	}
-
-	state_category = rural
 
 	history={
 		owner = PAS
 		victory_points = {
-			 8055 25
+			8055 25 
 		}
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
 			industrial_complex = 2
+
 		}
 		add_core_of = PAS
+
 	}
 
+	provinces={
+		8055 8259 
+	}
 	manpower=3507891
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -1,4 +1,4 @@
-capital = 16524
+capital = 329
 
 oob = "LET_0000"
 
@@ -24,7 +24,6 @@ set_convoys = 150
 set_stability = 0.5
 
 set_politics = {
-
 	parties = {
 		burjuism = { 
 			popularity = 25

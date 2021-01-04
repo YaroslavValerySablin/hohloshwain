@@ -1,20 +1,22 @@
+
 state={
 	id=659
 	name="STATE_659"
-	provinces={
-		15437 15489 15611 15648 15688 15794 15808 15886 15909 15927 16036 16037 
-	}
-
-	state_category = rural
 
 	history={
 		owner = RNS
 		buildings = {
 			infrastructure = 6
-		}		
+
+		}
 		add_core_of = RNS
+
 	}
-	
+
+	provinces={
+		14860 15219 15392 15437 15489 15611 15627 15648 15688 15794 15808 15886 15909 15927 16036 16037 
+	}
 	manpower=7000000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

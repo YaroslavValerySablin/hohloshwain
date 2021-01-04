@@ -9,13 +9,13 @@ state={
 	state_category = rural
 
 	history={
-		owner = LET
+		owner = PLA
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
 		}
-		add_core_of = LET
+		add_core_of = PLA
 	}
 
 	manpower=1513125

@@ -1,23 +1,58 @@
+
 state={
 	id=664
 	name="STATE_664"
-	provinces={
-		14883 14926 14962 15038 15079 15095 15096 15220 15234 15266 15289 15425 15472 15491 15612 15704 15152 15173 15219 15309 15392 15490  
-	}
-
-	state_category = town
 
 	history={
 		owner = MOS
+		victory_points = {
+			15491 50
+		}
+		victory_points = {
+			15649 25
+		}
+		victory_points = {
+			14632 25
+		}
+		victory_points = {
+			15704 25
+		}
+		victory_points = {
+			15425 25
+		}
+		victory_points = {
+			15289 15
+		}
+		victory_points = {
+			15490 25
+		}
+		victory_points = {
+			15809 25
+		}
+		victory_points = {
+			14948 25
+		}
+		victory_points = {
+			15309 10
+		}
+		victory_points = {
+			15152 10
+		}
 		buildings = {
 			infrastructure = 10
 			arms_factory = 4
 			industrial_complex = 4
 			air_base = 4
-		}		
+
+		}
 		add_core_of = MOS
+
 	}
 
+	provinces={
+		14616 14632 14683 14948 15152 15289 15309 15425 15490 15491 15649 15704 15809 
+	}
 	manpower=20000000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

@@ -2,21 +2,37 @@
 state={
 	id=329
 	name="STATE_329"
-	provinces={
-		15203 15204 15340 15374 15396 15563 
-	}
-
-	state_category = rural
 
 	history={
 		owner = LET
+		victory_points = {
+			15690 50
+		}
+		victory_points = {
+			15710 25
+		}
+		victory_points = {
+			15459 25
+		}
+		victory_points = {
+			15396 25
+		}
+		victory_points = {
+			16012 25
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
+
 		}
 		add_core_of = LET
+
 	}
 
+	provinces={
+		15396 15459 15690 15710 16012 
+	}
 	manpower=1420032
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

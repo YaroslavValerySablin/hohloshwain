@@ -2,17 +2,17 @@
 state={
 	id=656
 	name="STATE_656"
-	provinces={
-		14167 14223 14315 14333 14352 14374 14492 14546 14577 14684 14752 14765 
-	}
-	state_category = rural
+
 	history={
 		owner = RNS
-			infrastructure = 8
-		}	
-		add_core_of = RNS
+		infrastructure = 8
+
 	}
-	
-	manpower=8000000
+
+	provinces={
+		14167 14223 14315 14333 14352 14374 14492 14546 14577 14684 14752 14765 14818 14862 14962 15005 15095 15173 
+	}
+	manpower=0
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

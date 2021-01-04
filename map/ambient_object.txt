@@ -43,3 +43,47 @@ type={
 		}
 	}
 }
+type={
+	type="orthanc_entity"
+	use_animation=no
+	scale=0.130000
+	always_visible=yes
+	object={
+		name="orthanc_entity"
+		position={
+			3125.940 9.500 1764.350 
+		}
+		rotation={
+			0.000 150.000 0.000 
+		}
+	}
+}
+type={
+	type="baradur_entity"
+	use_animation=no
+	always_visible=yes
+	object={
+		name="baradur_entity"
+		position={
+			3252.480 7.000 1789.650 
+		}
+		rotation={
+			0.000 2400.000 0.000 
+		}
+	}
+}
+type={
+	type="sovety_entity"
+	use_animation=no
+	scale=0.015000
+	always_visible=yes
+	object={
+		name="sovety_entity"
+		position={
+			2823.790 12.400 1632.390 
+		}
+		rotation={
+			0.000 270.000 0.000 
+		}
+	}
+}
