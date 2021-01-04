@@ -1,4 +1,4 @@
-version="1.10.3"
+version="1.9.3"
 tags={
 	"Alternative History"
 }
@@ -49,5 +49,5 @@ replace_path="dlc/dlc028_la_resistance"
 replace_path="dlc/dlc029_allied_armor_pack"
 replace_path="dlc/dlc030_allied_speeches_pack"
 replace_path="dlc/dlc031_battle_for_the_bosporus"
-supported_version="1.10.3"
+supported_version="1.9."
 path="mod/ytm"
