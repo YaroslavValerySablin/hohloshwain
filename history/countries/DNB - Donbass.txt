@@ -27,61 +27,22 @@ set_technology = {
 set_convoys = 15
 
 set_stability = 0.6
-  set_politics = {
 
-	parties = {
-		burjuism = { 
-			popularity = 0
-		}
-
-		bidlo = {
-			popularity = 60
-		}
-		
-		borshewism = {
-			popularity = 0
-		}
-                
-                pahanism = { 
-			popularity = 30
-		}
-	}
-	
+set_politics = {
 	ruling_party = bidlo
-	last_election = "1934.3.26"
-	election_frequency = 60
+	last_election = "1936.1.1"
+	election_frequency = 48
 	elections_allowed = no
- }
-
-
-1939.1.1 = {
-  set_politics = {
-
-	parties = {
-		burjuism = { 
-			popularity = 0
-		}
-
-		bidlo = {
-			popularity = 60
-		}
-		
-		borshewism = {
-			popularity = 0
-		}
-                
-                pahanism = { 
-			popularity = 30
-		}
-	}
-	
-	ruling_party = bidlo
-	last_election = "1934.3.26"
-	election_frequency = 60
-	elections_allowed = no
- }
-
 }
+
+set_popularities = {
+	burjuism = 0
+	bidlo = 60
+	borshewism = 10
+	pahanism = 30
+}
+
+
 create_country_leader = {
 	name = "Захарченко"
 	desc = "POLITICS_ADOLF_HITLER_DESC"

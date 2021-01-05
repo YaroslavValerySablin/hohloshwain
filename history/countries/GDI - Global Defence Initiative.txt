@@ -22,20 +22,20 @@ set_technology = {
 
 set_convoys = 150
 set_stability = 0.5
-
 set_politics = {
-
-	parties = {
-		burjuism = { 
-			popularity = 100
-		}
-	}
-	
 	ruling_party = burjuism
-	last_election = "1932.10.16"
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
+set_popularities = {
+	burjuism = 100
+	bidlo = 0
+	borshewism = 0
+	pahanism = 0
+}
+
 
 create_country_leader = {
 	name = "Редмонт Бойл"

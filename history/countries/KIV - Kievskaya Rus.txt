@@ -26,31 +26,18 @@ set_stability = 0.7
 
 
 set_politics = {
-
-	parties = {
-		burjuism = { 
-			popularity = 0
-		}
-
-		bidlo = {
-			popularity = 0
-		}
-		
-		borshewism = {
-			popularity = 0
-		}
-                
-                pahanism = { 
-			popularity = 100
-		}
-	}
-	
-	ruling_party = pahanism
-	last_election = "1934.3.26"
-	election_frequency = 60
+	ruling_party = pahanism 
+	last_election = "1936.1.1"
+	election_frequency = 48
 	elections_allowed = no
 }
 
+set_popularities = {
+	burjuism = 0
+	bidlo = 0
+	borshewism = 0
+	pahanism = 100
+}
 create_country_leader = {
 	name = "Лжебандера"
 	desc = "POLITICS_ADOLF_HITLER_DESC"

@@ -44,17 +44,19 @@ set_convoys = 500
 add_ideas = shef_army_buhoy
 
 set_politics = {
- parties = {
-  burjuism = { popularity = 31 }
-  pahanism = { popularity = 56 }
-  borshewism = { popularity = 2 }
-  bidlo = { popularity = 11 }
- }
- ruling_party = pahanism
- last_election = "0000.1.1"
- election_frequency = 48
- elections_allowed = no
+	ruling_party = pahanism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }
+
+set_popularities = {
+	burjuism = 31
+	bidlo = 56
+	borshewism = 2
+	pahanism = 11
+}
+
 create_country_leader = {
  name = "Олежа Ляшко"
  desc = "ULIY_DESC"

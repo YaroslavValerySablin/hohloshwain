@@ -27,58 +27,17 @@ set_convoys = 150
 set_stability = 0.4
 
 set_politics = {
-
-	parties = {
-		burjuism = { 
-			popularity = 0
-		}
-
-		bidlo = {
-			popularity = 90
-		}
-		
-		borshewism = {
-			popularity = 0
-		}
-                
-              		pahanism = { 
-			popularity = 10
-		}
-	}
-	
 	ruling_party = bidlo
-	last_election = "1934.3.26"
-	election_frequency = 60
+	last_election = "1936.1.1"
+	election_frequency = 48
 	elections_allowed = no
 }
 
-1939.1.1 = {
-set_politics = {
-
-	parties = {
-		burjuism = { 
-			popularity = 0
-		}
-
-		bidlo = {
-			popularity = 90
-		}
-		
-		borshewism = {
-			popularity = 0
-		}
-                
-                pahanism = { 
-			popularity = 10
-		}
-	}
-	
-	ruling_party = bidlo
-	last_election = "1934.3.26"
-	election_frequency = 60
-	elections_allowed = no
-}
-
+set_popularities = {
+	burjuism = 0
+	bidlo = 90
+	borshewism = 0
+	pahanism = 10
 }
 
 create_country_leader = {
