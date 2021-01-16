@@ -1,6 +1,6 @@
 capital = 673
 
-oob = "NJS_0000"
+oob = "NJS_0002"
 
 set_research_slots = 3
 add_ideas = {

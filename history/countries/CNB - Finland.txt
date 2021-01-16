@@ -1,6 +1,6 @@
 ﻿capital = 1046
 
-oob = "CNB_0000"
+oob = "CNB_0002"
 
 set_research_slots = 1
 
@@ -21,7 +21,7 @@ set_convoys = 3
 
 set_politics = {
 	ruling_party = bidlo 
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

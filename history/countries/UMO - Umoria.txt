@@ -1,5 +1,5 @@
 ﻿capital = 781
-oob = "UMO_0000"
+oob = "UMO_0002"
 
 # Starting tech
 set_technology = {
@@ -11,13 +11,13 @@ set_convoys = 5
 
 set_politics = {
 	ruling_party = borshewism
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	burjuism = 30
+	burjuism = 20
 	borshewism = 50
 	pahanism = 30
 }

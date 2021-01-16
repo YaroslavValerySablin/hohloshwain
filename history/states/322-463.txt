@@ -2,11 +2,6 @@
 state={
 	id=322
 	name="STATE_322"
-	provinces={
-		16146 16235 16381 16486 16523 
-	}
-
-	state_category = rural
 
 	history={
 		owner = PLA
@@ -14,10 +9,16 @@ state={
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 1
+
 		}
 		add_core_of = PLA
+
 	}
 
+	provinces={
+		15964 16146 16202 16235 16381 16469 16486 16523 
+	}
 	manpower=1513125
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

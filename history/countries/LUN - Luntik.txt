@@ -1,6 +1,6 @@
 capital = 1129
 
-oob = "LUN_0000"
+oob = "LUN_0002"
 
 set_research_slots = 3
 

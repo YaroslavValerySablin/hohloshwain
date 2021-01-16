@@ -1,6 +1,6 @@
 capital = 522
 
-oob = "CZE_0000"
+oob = "CZE_0002"
 
 set_research_slots = 3
 set_stability = 0.66
@@ -30,7 +30,7 @@ set_technology = {
 
 set_politics = {
 	ruling_party = bidlo 
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

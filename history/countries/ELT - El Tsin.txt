@@ -1,6 +1,6 @@
 capital = 13316
 
-oob = "ELT_0000"
+oob = "ELT_0002"
 
 set_research_slots = 3
 add_ideas = {

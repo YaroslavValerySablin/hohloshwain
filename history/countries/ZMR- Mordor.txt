@@ -1,6 +1,6 @@
 capital = 311
 
-oob = "ZMR_0000"
+oob = "ZMR_0002"
 
 set_research_slots = 3
 add_ideas = {
@@ -26,7 +26,7 @@ set_stability = 0.5
 
 set_politics = {
 	ruling_party = bidlo
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

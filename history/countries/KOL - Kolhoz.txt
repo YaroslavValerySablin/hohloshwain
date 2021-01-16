@@ -1,6 +1,6 @@
 capital = 652
 
-oob = "KOL_0000"
+oob = "KOL_0002"
 
 set_research_slots = 3
 add_ideas = {

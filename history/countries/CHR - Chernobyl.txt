@@ -1,6 +1,6 @@
 ﻿capital = 1673
 
-oob = "CHR_0000"
+oob = "CHR_0002"
 
 set_research_slots = 3
 

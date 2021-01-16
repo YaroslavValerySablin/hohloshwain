@@ -3,7 +3,7 @@
 capital = 692
 
 
-oob = "PRA_0000"
+oob = "PRA_0002"
 
 set_research_slots = 3
 

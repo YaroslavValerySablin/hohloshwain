@@ -1,5 +1,5 @@
 ﻿capital = 10471
-oob = "ODE_0000"
+oob = "ODE_0002"
 set_stability = 1
 set_war_support = 1
 set_research_slots = 3

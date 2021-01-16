@@ -3,7 +3,7 @@
 capital = 688
 
 
-oob = "BAR_0000"
+oob = "BAR_0002"
 
 set_research_slots = 3
 

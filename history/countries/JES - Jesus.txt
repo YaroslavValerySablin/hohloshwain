@@ -1,6 +1,6 @@
 ﻿capital = 1391
 
-oob = "JES_0000"
+oob = "JES_0002"
 
 set_technology = {
 	

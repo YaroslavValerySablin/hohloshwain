@@ -1,6 +1,6 @@
 capital = 15868
 
-oob = "RNS_0000"
+oob = "RNS_0002"
 
 set_research_slots = 4
 

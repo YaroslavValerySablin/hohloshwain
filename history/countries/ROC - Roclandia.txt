@@ -1,6 +1,6 @@
 ﻿capital = 778
 
-oob = "ROC_0000"
+oob = "ROC_0002"
 
 # Starting tech
 set_technology = {
@@ -12,16 +12,16 @@ set_convoys = 5
 
 set_politics = {
 	ruling_party = burjuism
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	burjuism = 75
+	burjuism = 70
 	bidlo = 10
 	borshewism = 10
-	pahanism = 5
+	pahanism = 10
 }
 
 create_country_leader = {

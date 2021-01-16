@@ -1,6 +1,6 @@
 capital = 958
 
-oob = "DKC_0000"
+oob = "DKC_0002"
 
 set_research_slots = 3
 set_convoys = 0
@@ -19,7 +19,7 @@ add_ideas = {
 
 set_politics = {
 	ruling_party = borshewism
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

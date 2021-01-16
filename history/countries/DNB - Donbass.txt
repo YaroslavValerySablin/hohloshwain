@@ -3,7 +3,7 @@
 capital = 11732
 
 
-oob = "DNB_0000"
+oob = "DNB_0002"
 
 set_research_slots = 3
 
@@ -23,6 +23,13 @@ set_technology = {
 	early_fighter = 1
 }
 
+if = {
+
+	declare_war_on = {
+		target = PRA
+		type = annex_everything
+	}
+}
 
 set_convoys = 15
 

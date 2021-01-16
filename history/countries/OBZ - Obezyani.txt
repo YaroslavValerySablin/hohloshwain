@@ -1,6 +1,6 @@
 capital = 1004
 
-oob = "OBZ_0000"
+oob = "OBZ_0002"
 
 set_research_slots = 3
 set_convoys = 75
@@ -31,7 +31,7 @@ set_technology = {
 
 set_politics = {
 	ruling_party = burjuism
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

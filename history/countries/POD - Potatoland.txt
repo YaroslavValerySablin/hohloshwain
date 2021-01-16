@@ -1,6 +1,6 @@
 ﻿capital = 634
 
-oob = "POD_0000"
+oob = "POD_0002"
 
 set_research_slots = 3
 
@@ -20,7 +20,7 @@ set_technology = {
 
 set_politics = {
 	ruling_party = borshewism 
-	last_election = "0000.1.1" 
+	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }

@@ -1,6 +1,6 @@
 ﻿capital = 11167
 
-oob = "ZLS_0000"
+oob = "ZLS_0002"
 
 set_research_slots = 2
 

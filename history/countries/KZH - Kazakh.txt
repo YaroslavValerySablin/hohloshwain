@@ -1,6 +1,6 @@
 capital = 1075
 
-oob = "KZH_0000"
+oob = "KZH_0002"
 
 set_research_slots = 5
 

@@ -1,6 +1,6 @@
 ﻿capital = 543
 
-oob = "TAR_0000"
+oob = "TAR_0002"
 
 # Starting tech
 set_technology = {

@@ -1,6 +1,6 @@
 ﻿capital = 10470
 
-oob = "ROA_0000"
+oob = "ROA_0002"
 
 set_research_slots = 1
 

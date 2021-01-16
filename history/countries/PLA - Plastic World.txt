@@ -1,6 +1,6 @@
 capital = 13918
 
-oob = "PLA_0000"
+oob = "PLA_0002"
 
 set_research_slots = 3
 add_ideas = {

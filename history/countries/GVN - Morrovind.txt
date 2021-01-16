@@ -1,6 +1,6 @@
 ﻿capital = 199
 
-oob = "GVN_0000"
+oob = "GVN_0002"
 
 set_technology = {
 

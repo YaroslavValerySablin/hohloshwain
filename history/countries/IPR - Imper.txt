@@ -1,6 +1,6 @@
 ﻿capital = 391
 
-oob = "IPR_0000"
+oob = "IPR_0002"
 
 set_technology = {
 

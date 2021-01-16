@@ -1,6 +1,6 @@
 capital = 682
 
-oob = "RAP_0000"
+oob = "RAP_0002"
 
 set_research_slots = 3
 add_ideas = {

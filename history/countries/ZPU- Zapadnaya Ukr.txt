@@ -1,6 +1,6 @@
 ﻿capital = 11903
 
-oob = "ZPU_0000"
+oob = "ZPU_0002"
 
 set_research_slots = 3
 

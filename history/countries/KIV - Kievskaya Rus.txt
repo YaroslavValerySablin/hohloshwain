@@ -1,6 +1,6 @@
 ﻿capital = 12434
 
-oob = "KIV_0000"
+oob = "KIV_0002"
 
 set_research_slots = 3
 
