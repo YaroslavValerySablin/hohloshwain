@@ -8,3 +8,14 @@ spriteTypes = {
 		play_on_show = yes
 	}
 }
+
+spriteTypes = {
+	frameAnimatedSpriteType = {
+		name = "GFX_deskleymer"
+		texturefile = "gfx/interface/deskleymer.dds"
+		noOfFrames = 20
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+	}
+}
