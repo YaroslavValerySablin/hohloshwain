@@ -2,6 +2,13 @@
  
  LUK_burjuism:0 "Лаки Стар"
  LUK_burjuism_DEF:0 "Лаки Стар"
+ LUK_borshewism:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
+ LUK_borshewism_DEF:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
+ LUK_bidlo:0 "Черная Звезда Почему"
+ LUK_bidlo_DEF:0 "Черная Звезда Почему"
+ LUK_pahanism:0 "Звезда"
+ LUK_pahanism_DEF:0 "Звезда"
+
  
  3DG_burjuism:0 "Тридэбабы"
  3DG_burjuism_DEF:0 "Тридэбабы"
@@ -72,8 +79,14 @@
  WHM_burjuism:0 "Военная хроника маленькой девочки"
  WHM_burjuism_DEF:0 "Военная хроника маленькой девочки ТВ Сериал Эпизоды 12"
  
- GRB_burjuism:0 "Гражданская Оборона"
- GRB_burjuism_DEF:0 "Гражданская Оборона"
+ GRB_burjuism:0 "Чёрный лукич"
+ GRB_burjuism_DEF:0 "Чёрный лукич"
+ GRB_borshewism:0 "Гражданская оборона"
+ GRB_borshewism_DEF:0 "Гражданская оборона"
+ GRB_bidlo:0 "Цыганята и я с ильича"
+ GRB_bidlo_DEF:0 "Цыганята и я с ильича"
+ GRB_pahanism:0 "Посев"
+ GRB_pahanism_DEF:0 "Посев"
  
  ZDM_burjuism:0 "Повседневная жизнь в зоопарке понял да"
  ZDM_burjuism_DEF:0 "Повседневная жизнь в зоопарке понял да"

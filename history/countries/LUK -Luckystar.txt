@@ -4,8 +4,8 @@ oob = "ETH_0002"
 
 set_research_slots = 3
 set_convoys = 75
-set_stability = 0.3
-set_war_support = 0.6
+set_stability = 0.6
+set_war_support = 0.2
 add_political_power = 10
 
 set_technology = {
@@ -37,7 +37,52 @@ set_politics = {
 }
 
 set_popularities = {
-	burjuism = 5
-	borshewism = 89
-	bidlo = 6
+	burjuism = 89
+	borshewism = 5
+	bidlo = 5
+        pahanism = 1
+}
+
+create_country_leader = {
+	name = "Misha Tokavalny"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Tokavalny.dds"
+	expire = "1965.1.1"
+	ideology = liberaha
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kagami Lenin"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Lenin.dds"
+	expire = "1965.1.1"
+	ideology = gomunaks
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Konata Izmaul Nehitler"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Nehitler.dds"
+	expire = "1965.1.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Tsukasa Hiragigi"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Gigi.dds"
+	expire = "1965.1.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
 }

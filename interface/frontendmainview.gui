@@ -1,5 +1,7 @@
 guiTypes = {
 
+    
+
 	containerWindowType = {
 		name ="frontend_background"
 		position = { x=0 y =0 }	
@@ -30,13 +32,23 @@ guiTypes = {
 		animation_type = decelerated
 		animation_time = 1000
 		size = { width = 256 height = 768}
+
 		
 		iconType =
 		{
 			name ="frontend_game_logo"
 			spriteType = "GFX_frontend_game_logo"
-			position = { x= 20 y = 140 }
+			position = { x= 20 y = 142 }
 		}
+		
+		iconType = {
+			name ="diskleymer"
+			spriteType = "GFX_diskleymer"
+			position = { x = 900 y = -400 } #1220*50
+			scale = 0.6		
+			orientation = LOWER_RIGHT
+		}
+		
 		
 	}
 
