@@ -22,8 +22,8 @@
  HIK_burjuism:0 "Хиккастан"
  HIK_burjuism_DEF:0 "Хиккастан"
  
- SRM_burjuism:0 "Хиккастан"
- SRM_burjuism_DEF:0 "Хиккастан"
+ SRM_burjuism:0 "Самураи"
+ SRM_burjuism_DEF:0 "Самураи"
  
  GCH_burjuism:0 "Шинниппори"
  GCH_burjuism_DEF:0 "Шинниппори"
@@ -52,8 +52,14 @@
  DTH_burjuism:0 "The human whose name is written in this note shall die. This note will not take effect unless the writer has the person's face in their mind when writing his/her name. Therefore, people sharing the same name will not be affected. If the cause of death is written within the next 40 seconds of writing the person's name, it will happen. If the cause of death is not specified, the person will simply die of a heart attack. After writing the cause of death, details of the death should be written in the next 6 minutes and 40 seconds."
  DTH_burjuism_DEF:0 "The human whose name is written in this note shall die. This note will not take effect unless the writer has the person's face in their mind when writing his/her name. Therefore, people sharing the same name will not be affected. If the cause of death is written within the next 40 seconds of writing the person's name, it will happen. If the cause of death is not specified, the person will simply die of a heart attack. After writing the cause of death, details of the death should be written in the next 6 minutes and 40 seconds."
  
- TKG_burjuism:0 "Пожилые Гули Натуралы из Токио Канибалы Кишки"
- TKG_burjuism_DEF:0 "Пожилые Гули Натуралы из Токио Канибалы Кишки"
+ TKG_burjuism:0 "ООО Дед внутри"
+ TKG_burjuism_DEF:0 "ООО Дед внутри"
+ TKG_borshewism:0 "Голубятник"
+ TKG_borshewism_DEF:0 "Голубятник"
+ TKG_bidlo:0 "Пожилые Гули Натуралы из Токио Канибалы Кишки"
+ TKG_bidlo_DEF:0 "Пожилые Гули Натуралы из Токио Канибалы Кишки"
+ TKG_pahanism:0 "Упыри"
+ TKG_pahanism_DEF:0 "Упыри"
  
  OPM_burjuism:0 "Один Удар Мужик"
  OPM_burjuism_DEF:0 "Один Удар Мужик"
@@ -71,6 +77,7 @@
  MRJ_bidlo:0 "Морио"
  MRJ_bidlo_DEF:0 "Морио"
  MRJ_pahanism:0 "Морио"
+ MRJ_pahanism_DEF:0 "Морио"
  MRJ_pahanism_DEF:0 "Морио"
  
  VIB_burjuism:0 "Агентство Коллекторов SOS" #Раньше здесь была какая та Виабубиба но я заменил на нормальную тему
