@@ -1,13 +1,13 @@
 ﻿l_russian:
  
- LUK_burjuism:0 "Лаки Стар"
- LUK_burjuism_DEF:0 "Лаки Стар"
- LUK_borshewism:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
- LUK_borshewism_DEF:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
- LUK_bidlo:0 "Черная Звезда Почему"
- LUK_bidlo_DEF:0 "Черная Звезда Почему"
- LUK_pahanism:0 "Звезда"
- LUK_pahanism_DEF:0 "Звезда"
+ VIB_burjuism:0 "Лаки Стар"
+ VIB_burjuism_DEF:0 "Лаки Стар"
+ VIB_borshewism:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
+ VIB_borshewism_DEF:0 "Везучая Звезда Красная От тайги до британских морей красная армия всех сильней(Red)"
+ VIB_bidlo:0 "Черная Звезда Почему"
+ VIB_bidlo_DEF:0 "Черная Звезда Почему"
+ VIB_pahanism:0 "Звезда"
+ VIB_pahanism_DEF:0 "Звезда"
 
  
  3DG_burjuism:0 "Тридэбабы"
@@ -34,10 +34,16 @@
  SLR_burjuism:0 "Сейлор Мун"
  SLR_burjuism_DEF:0 "Сейлор Мун"
  
- DRE_burjuism:0 "Плантация Токио 3"
- DRE_burjuism_DEF:0 "Плантация Токио 3"
+ VIB_burjuism:0 "Плантация Токио 3"
+ VIB_burjuism_DEF:0 "Плантация Токио 3"
+ VIB_borshewism:0 "Плантация Токио 3"
+ VIB_borshewism_DEF:0 "Плантация Токио 3"
+ VIB_bidlo:0 "Плантация Токио 3"
+ VIB_bidlo_DEF:0 "Плантация Токио 3"
+ VIB_pahanism:0 "Плантация Токио 3"
+ VIB_pahanism_DEF:0 "Плантация Токио 3"
  
- TRP_burjuism:0 "Трапы"
+ TRP_burjuism:0 "Трапы" # Сёгунат неполживых баб
  TRP_burjuism_DEF:0 "Трапы"
  
  GAD_burjuism:0 "Пожилая Гадзила"
@@ -58,11 +64,17 @@
  HVF_burjuism:0 "Хвост Феи ТВ-1 Год: 2009 Возрастной рейтинг: PG-13 (от 13 лет) Жанр: Сёнэн,Комедия,Приключения, Фэнтези, Драконы, Магия, Экшен"
  HVF_burjuism_DEF:0 "Хвост Феи ТВ-1 Год: 2009 Возрастной рейтинг: PG-13 (от 13 лет) Жанр: Сёнэн,Комедия,Приключения, Фэнтези, Драконы, Магия, Экшен"
  
- MRJ_burjuism:0 "Морио"
+ MRJ_burjuism:0 "Морио" ##
  MRJ_burjuism_DEF:0 "Морио"
  
- VIB_burjuism:0 "Виабубиба"
- VIB_burjuism_DEF:0 "Виабубиба"
+ VIB_burjuism:0 "Агентство Коллекторов SOS" #Раньше здесь была какая та Виабубиба но я заменил на нормальную тему
+ VIB_burjuism_DEF:0 "Агентство Коллекторов SOS" #Раньше здесь была какая та Виабубиба но я заменил на нормальную тему
+ VIB_borshewism:0 "Коллективный Коллектив SOS"
+ VIB_borshewism_DEF:0 "Коллективный Коллектив SOS"
+ VIB_bidlo:0 "Наркопритон SOS"
+ VIB_bidlo_DEF:0 "Наркопритон SOS"
+ VIB_pahanism:0 "Кружок SOS"
+ VIB_pahanism_DEF:0 "Кружок SOS"
  
  BIB_burjuism:0 "Ковбой Бибоп"
  BIB_burjuism_DEF:0 "Ковбой Бибоп"
