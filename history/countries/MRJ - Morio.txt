@@ -37,7 +37,53 @@ set_politics = {
 }
 
 set_popularities = {
-	burjuism = 5
-	borshewism = 89
-	bidlo = 6
+	burjuism = 25
+	borshewism = 25
+	bidlo = 25
+        pahanism = 25
 }
+
+create_country_leader = {
+	name = "Karlan Latish"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Shigechi.dds"
+	expire = "1965.1.1"
+	ideology = liberaha
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mushikui"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Rat.dds"
+	expire = "1965.1.1"
+	ideology = gribonism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Nijimura Okuyasu"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "thehand.dds"
+	expire = "1965.1.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Kira Yoshikage"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Kira.dds"
+	expire = "1965.1.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
+}
+
