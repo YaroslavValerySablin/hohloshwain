@@ -2,10 +2,10 @@ capital = 958
 
 oob = "ETH_0002"
 
-set_research_slots = 3
+set_research_slots = 4
 set_convoys = 75
-set_stability = 0.3
-set_war_support = 0.6
+set_stability = 0.7
+set_war_support = 0.7
 add_political_power = 10
 
 set_technology = {
@@ -30,14 +30,60 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = burjuism
+	ruling_party = bidlo
 	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	burjuism = 5
-	borshewism = 89
-	bidlo = 6
+	burjuism = 25
+	borshewism = 25
+	bidlo = 25
+        pahanism = 25
 }
+
+create_country_leader = {
+	name = "Prodazhnaya Tetrad"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Tetrad.dds"
+	expire = "1965.1.1"
+	ideology = liberaha
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ryuk"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Ryuk.dds"
+	expire = "1965.1.1"
+	ideology = gribonism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "God"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "God.dds"
+	expire = "1965.1.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "L"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "El.dds"
+	expire = "1965.1.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
+}
+
