@@ -2,11 +2,11 @@ capital = 958
 
 oob = "ETH_0002"
 
-set_research_slots = 3
+set_research_slots = 2
 set_convoys = 75
-set_stability = 0.3
-set_war_support = 0.6
-add_political_power = 10
+set_stability = 0.8
+set_war_support = 0.8
+add_political_power = 40
 
 set_technology = {
 	infantry_weapons = 1 
@@ -30,14 +30,59 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = burjuism
+	ruling_party = bidlo
 	last_election = "0001.1.1" 
 	election_frequency = 48 
 	elections_allowed = no 
 }
 
 set_popularities = {
-	burjuism = 5
-	borshewism = 89
-	bidlo = 6
+	burjuism = 25
+	borshewism = 25
+	bidlo = 25
+        pahanism = 25
+}
+
+create_country_leader = {
+	name = "Kerensky"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Kerensky.dds"
+	expire = "1965.1.1"
+	ideology = liberaha
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Ulyana"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Ryuk.dds"
+	expire = "1965.1.1"
+	ideology = gribonism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "3D GIRL"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "3dgirl.dds"
+	expire = "1965.1.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "3D GIRL"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "3dgirl2.dds"
+	expire = "1965.1.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
 }

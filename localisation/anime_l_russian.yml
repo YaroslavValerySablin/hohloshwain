@@ -10,8 +10,14 @@
  LUK_pahanism_DEF:0 "Звезда"
 
  
- 3DG_burjuism:0 "Тридэбабы"
- 3DG_burjuism_DEF:0 "Тридэбабы"
+ 3DG_burjuism:0 "Экскорт агентство антидвадэ"
+ 3DG_burjuism_DEF:0 "Экскорт агентство антидвадэ"
+ 3DG_borshewism:0 "Тимуровцы"
+ 3DG_borshewism_DEF:0 "Тимуровцы"
+ 3DG_bidlo:0 "БЕЗ ДВАДЭ"
+ 3DG_bidlo_DEF:0 "БЕЗ ДВАДЭ"
+ 3DG_pahanism:0 "БЕЗ ДВАДЭ"
+ 3DG_pahanism_DEF:0 "БЕЗ ДВАДЭ"
  
  SHI_burjuism:0 "Синоби"
  SHI_burjuism_DEF:0 "Синоби"
