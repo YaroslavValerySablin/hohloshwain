@@ -19,8 +19,14 @@
  3DG_pahanism:0 "БЕЗ ДВАДЭ"
  3DG_pahanism_DEF:0 "БЕЗ ДВАДЭ"
  
- SHI_burjuism:0 "Синоби"
- SHI_burjuism_DEF:0 "Синоби"
+ SHI_burjuism:0 "Воины лапши"
+ SHI_burjuism_DEF:0 "Воины лапши"
+ SHI_borshewism:0 "Красные Синоби"
+ SHI_borshewism_DEF:0 "Красные Синоби"
+ SHI_bidlo:0 "Синоби"
+ SHI_bidlo_DEF:0 "Синоби"
+ SHI_pahanism:0 "Синоби"
+ SHI_pahanism_DEF:0 "Синоби"
  
  BAS_burjuism:0 "Бакуню"
  BAS_burjuism_DEF:0 "Бакуню"
@@ -126,8 +132,14 @@
  GRB_pahanism:0 "Посев"
  GRB_pahanism_DEF:0 "Посев"
  
- ZDM_burjuism:0 "Повседневная жизнь в зоопарке понял да"
- ZDM_burjuism_DEF:0 "Повседневная жизнь в зоопарке понял да"
+ ZDM_burjuism:0 "Зоопарк"
+ ZDM_burjuism_DEF:0 "Зоопарк"
+ ZDM_borshewism:0 "Зоопарк"
+ ZDM_borshewism_DEF:0 "Зоопарк"
+ ZDM_bidlo:0 "Зоопарк"
+ ZDM_bidlo_DEF:0 "Зоопарк"
+ ZDM_pahanism:0 "Зоопарк"
+ ZDM_pahanism_DEF:0 "Зоопарк"
  
  NAR_burjuism:0 "NieR: Automata (яп. ニーア オートマタ Ни:а О:томата, стилизовано как NieR:Automata) — компьютерная игра в жанре Action/RPG, разработанная студией Platinum Games и изданная компанией Square Enix для платформ PlayStation 4, Xbox One и Microsoft Windows."
  NAR_burjuism_DEF:0 "NieR: Automata (яп. ニーア オートマタ Ни:а О:томата, стилизовано как NieR:Automata) — компьютерная игра в жанре Action/RPG, разработанная студией Platinum Games и изданная компанией Square Enix для платформ PlayStation 4, Xbox One и Microsoft Windows."
@@ -150,8 +162,14 @@
  THJ_burjuism:0 "Генсокё"
  THJ_burjuism_DEF:0 "Генсокё"
  
- KNM_burjuism:0 "Этот замечательный мир!"
- KNM_burjuism_DEF:0 "Этот замечательный мир!"
+ KNM_burjuism:0 "Виноградник"
+ KNM_burjuism_DEF:0 "Виноградник"
+ KNM_borshewism:0 "Коммунистический бум!"
+ KNM_borshewism_DEF:0 "Коммунистический бум!"
+ KNM_bidlo:0 "Бутырка"
+ KNM_bidlo_DEF:0 "Бутырка"
+ KNM_pahanism:0 "Команда Кузьмы"
+ KNM_pahanism_DEF:0 "Команда Кузьмы"
  
  BKK_burjuism:0 "Боевой Клуб Пизда Баке "
  BKK_burjuism_DEF:0 "Боевой Клуб Пизда Баке"
@@ -189,8 +207,14 @@
  6NA_burjuism:0 "Деревня И обязательно деревню срытую в говне добавьте"
  6NA_burjuism_DEF:0 "Деревня И обязательно деревню срытую в говне добавьте"
  
- SBD_burjuism:0 "СБУ"
- SBD_burjuism_DEF:0 "СБУ"
+ SBD_burjuism:0 "Служба безопасности Украины"
+ SBD_burjuism_DEF:0 "Служба безопасности Украины"
+ SBD_borshewism:0 "Служба безопасности Украины"
+ SBD_borshewism_DEF:0 "лужба безопасности Украины"
+ SBD_bidlo:0 "Служба безопасности Украины"
+ SBD_bidlo_DEF:0 "Служба безопасности Украины"
+ SBD_pahanism:0 "Служба безопасности Украины"
+ SBD_pahanism_DEF:0 "Служба безопасности Украины"
  
  
  
