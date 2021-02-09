@@ -1,0 +1,75 @@
+capital = 958
+
+oob = "DKC_0002"
+
+set_research_slots = 3
+set_convoys = 15
+set_stability = 0.6
+set_war_support = 0.6
+
+
+set_technology = {
+
+}
+
+add_ideas = {
+	home_of_revolution
+}
+
+set_politics = {
+	ruling_party = borshewism
+	last_election = "0001.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
+}
+
+set_popularities = {
+	burjuism = 25
+	borshewism = 25
+	bidlo = 25
+        pahanism = 25
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "monikabu.dds"
+	expire = "1965.1.1"
+	ideology = liberaha
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "monikaborshewism.dds"
+	expire = "1965.1.1"
+	ideology = gribonism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "monikabidlo.dds"
+	expire = "1965.1.1"
+	ideology = nazbol
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Monika"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "monika.dds"
+	expire = "1965.1.1"
+	ideology = modepahanism
+	traits = {
+		
+	}
+}

@@ -1,0 +1,89 @@
+﻿capital = #ДУГИНСК
+
+oob = "DUG_0002" #ТУПО ЛИЧНАЯ АРМИЯ ДУГИНА
+
+set_technology = { #ТЕХИ ТУПО ПАЦАНСКИЕ ДАДИТЕ
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	fighter1 = 1
+	strategic_bomber1 = 1
+	naval_bomber1 = 1
+	basic_light_tank = 1  
+	basic_heavy_tank = 1  
+	basic_medium_tank = 1 
+}
+
+set_popularities = { 
+
+burjuism = 0
+borshewism = 50
+pahanism = 0
+putinism = 50
+bidlo = 0
+
+
+}
+
+	set_politics = {
+		ruling_party = putinism
+		last_election = ""
+		election_frequency = 0
+		elections_allowed = no
+	}
+	
+create_country_leader = {
+    name = "Александр Дугин"
+    desc = "Советский и российский философ, политолог, социолог, переводчик и общественный деятель. Кандидат философских наук, доктор политических наук, доктор социологических наук. Профессор, и. о. заведующего кафедрой социологии международных отношений социологического факультета МГУ им. М. В. Ломоносова, лидер Международного Евразийского движения. Автор Четвёртой политической теории, которая по его мнению должна быть следующим шагом в развитии политики после первых трёх: либерализма, социализма и фашизма. Политическая деятельность Дугина направлена на создание евразийской сверхдержавы через интеграцию России с бывшими советскими республиками в новый Евразийский Союз."
+    picture = "Dugin.dds"
+    expire = "1965.1.1"
+    ideology = putinism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Гей"
+    desc = ""
+    picture = ""
+    expire = "1965.1.1"
+    ideology = bidlo 
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Хуило"
+    desc = ""
+    picture = ""
+    expire = "1965.1.1"
+    ideology = burjuism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Хуй какой-то"
+    desc = ""
+    picture = ""
+    expire = "1965.1.1"
+    ideology = pahanism
+    traits = {
+        #
+    }
+}
+
+create_country_leader = {
+    name = "Эдуард Лимонов"
+    desc = "Русский писатель, поэт, публицист, политический деятель и бывший председатель запрещённой в России Национал-борьщевистской партии, бывший председатель одноимённых партии и коалиции «Другая Россия». Был депутатом и членом совета Национальной Ассамблеи Российской Федерации. Автор популярных оппозиционных проектов 2000-х годов: «Другая Россия" и т.д.
+    picture = "Limonov.dds"
+    expire = "1965.1.1"
+    ideology = borshewism
+    traits = {
+        #
+    }
+}

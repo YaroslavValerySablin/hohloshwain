@@ -1,0 +1,60 @@
+﻿capital = 766
+
+oob = "SHY_0002"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+
+
+set_politics = {
+	ruling_party = borshewism
+	last_election = "0001.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
+}
+
+set_popularities = {
+	burjuism = 20
+	borshewism = 50
+	bidlo = 10
+	pahanism = 20
+}
+
+create_country_leader = {
+	name = ""
+	desc = ""
+	picture = "dem.dds"
+	expire = "1953.3.1"
+	ideology = conserva
+}
+
+create_country_leader = {
+	name = ""
+	desc = ""
+	picture = "fac.dds"
+	expire = "1965.1.1"
+	ideology = nazi
+}
+
+create_country_leader = {
+	name = ""
+	desc = ""
+	picture = "neu.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism
+}
+
+create_country_leader = {
+	name = "Bulba Sumkin"
+	desc = ""
+	picture = "bulba.dds"
+	expire = "1965.1.1"
+	ideology = koksxism
+	traits = {
+		#
+	}
+}

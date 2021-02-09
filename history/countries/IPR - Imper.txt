@@ -1,0 +1,49 @@
+﻿capital = 391
+
+oob = "IPR_0002"
+
+set_technology = {
+
+}
+set_convoys = 5
+
+
+
+set_politics = {	
+	ruling_party = pahanism
+	last_election = "4171.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	pahanism = 100
+}
+
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = SKY
+		autonomous_state = autonomy_puppet
+	}
+	set_autonomy = {
+		target = GVN
+		autonomous_state = autonomy_dominion
+	}
+	else = {
+		puppet = SKY
+		puppet = GVN
+	}
+}
+
+
+create_country_leader = {
+	name = "Titus Mede II"
+	picture = "Titus_Mede_II.dds"
+	ideology = despopahanism
+}

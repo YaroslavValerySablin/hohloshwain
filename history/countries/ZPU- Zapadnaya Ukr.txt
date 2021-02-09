@@ -1,0 +1,137 @@
+﻿capital = 11903
+
+oob = "ZPU_0002"
+
+set_research_slots = 3
+
+add_ideas = {
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	gwtank = 1
+	basic_light_tank = 1
+	early_fighter = 1
+}
+
+
+
+
+set_convoys = 150
+set_stability = 0.4
+
+set_politics = {
+	ruling_party = bidlo
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	burjuism = 0
+	bidlo = 90
+	borshewism = 0
+	pahanism = 10
+}
+
+create_country_leader = {
+	name = "Степан Бандера"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Bandera.dds"
+	expire = "1965.1.1"
+	ideology = nazi
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Порошенко"
+	desc = "POLITICS_KONRAD_ADENAUER_DESC"
+	picture = "Porosh.dds"
+	expire = "1965.1.1"
+	ideology = conserva
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Укроп"
+	desc = "POLITICS_BORIS_III_DESC"
+	picture = "DonbasSlava.dds"
+	expire = "1965.1.1"
+	ideology = despopahanism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Петр Симоненко"
+	desc = "POLITICS_WILHELM_PIECK_DESC"
+	picture = "Kapitan.dds"
+	expire = "1965.1.1"
+	ideology = naziborshewism
+	traits = {
+	
+	}
+}
+
+
+
+create_corps_commander = {
+	name = "Стас Римша"
+	picture = "StasRimsha.dds"
+	traits = { trait_cautious armor_officer }
+	skill = 3
+	id = 3
+	attack_skill = 5
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Андрей Мельник"
+	picture = "Melnik.dds"
+	traits = { trait_cautious armor_officer }
+	skill = 1
+	id = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+
+create_corps_commander = {
+	name = "Стас Ришма"
+	picture = "Evgen.dds"
+	traits = { trait_cautious armor_officer }
+	skill = 4
+	id = 3
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 1
+}
+
+create_field_marshal = {
+	name = "Степан Бандера"
+	picture = "Bandera.dds"
+	traits = { logistics_wizard offensive_doctrine media_personality trait_cautious inflexible_strategist organizer }
+	skill = 4 
+	attack_skill = 4
+	defense_skill = 4
+	planning_skill = 4
+	logistics_skill = 4
+
+}
+
+

@@ -1,0 +1,45 @@
+﻿capital = 1046
+
+oob = "CNB_0002"
+
+set_research_slots = 1
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1			
+	interwar_antiair = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+}
+
+
+set_convoys = 3
+
+
+
+set_politics = {
+	ruling_party = bidlo 
+	last_election = "0001.1.1" 
+	election_frequency = 48 
+	elections_allowed = no 
+}
+
+set_popularities = {
+	burjuism = 10
+	pahanism = 79
+	bidlo = 10
+	borshewism = 1
+}
+
+create_country_leader = {
+	name = "Carl Gustav Emil Mannernigger"
+	desc = ""
+	picture = "mannernigger.dds"
+	expire = "1965.1.1"
+	ideology = nazi
+	traits = {
+		#
+	}
+}

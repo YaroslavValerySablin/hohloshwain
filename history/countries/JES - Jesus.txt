@@ -1,0 +1,51 @@
+﻿capital = 1391
+
+oob = "JES_0002"
+
+set_technology = {
+	
+}
+
+set_research_slots = 2
+set_stability = 0.89
+set_war_support = 0.1
+set_convoys = 5
+
+set_popularities = {
+	pahanism = 100
+}
+
+set_politics = {
+	ruling_party = pahanism
+	last_election = "1.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Last Supper"
+	desc = ""
+	picture = "Last_Supper.dds"
+	ideology = liberaha
+}
+
+create_country_leader = {
+	name = "Ashes"
+	desc = ""
+	picture = "Ashes.dds"
+	ideology = nazi
+}
+
+create_country_leader = {
+	name = "Jesus"
+	desc = ""
+	picture = "Jesus.dds"
+	ideology = despopahanism
+}
+
+create_country_leader = {
+	name = "Ja"
+	desc = ""
+	picture = "Ja.dds"
+	ideology = gribonism
+}

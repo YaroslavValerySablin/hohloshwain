@@ -1,0 +1,85 @@
+capital = 15868
+
+oob = "RNS_0002"
+
+set_research_slots = 4
+
+add_ideas = {
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	gwtank = 1
+	basic_light_tank = 1
+	early_fighter = 1
+}
+
+set_convoys = 150
+set_stability = 0.9
+
+set_popularities = {
+	burjuism = 12
+	bidlo = 88
+}
+
+set_politics = {
+	ruling_party = bidlo 
+	last_election = "0.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+create_country_leader = {
+	name = "Putin is nulevyh"
+	desc = ""
+	picture = "Putin.dds"
+	expire = "1953.3.1"
+	ideology = conserva 
+}
+
+create_country_leader = {
+	name = "Tessa Violet"
+	desc = ""
+	picture = "Tessa.dds"
+	expire = "1965.1.1"
+	ideology = fashiki 
+	traits = {
+		financial_expert
+	}
+}
+
+create_country_leader = {
+	name = "Nikolay II"
+	desc = ""
+	picture = "Kolya.dds"
+	expire = "1965.1.1"
+	ideology = centpahanism 
+}
+
+create_country_leader = {
+	name = "Cyber-Lenin"
+	desc = ""
+	picture = "Lenin.dds"
+	expire = "1965.1.1"
+	ideology = gribonism 
+	traits = {
+		#
+	}
+}
+
+create_corps_commander = {
+	name = "Tessa" #Имя
+	portrait_path = "Tessa.dds" ##Картинка
+	traits = { fast_planner offensive_doctrine } #Награды
+	skill = 10
+	attack_skill = 10
+	defense_skill = 10
+	planning_skill = 10
+	logistics_skill = 10
+}
