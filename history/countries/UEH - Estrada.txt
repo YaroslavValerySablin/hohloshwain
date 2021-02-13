@@ -1,0 +1,74 @@
+capital = 30
+
+oob = "UEH_0002"
+
+set_research_slots = 3
+
+add_ideas = {
+}
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 150
+set_stability = 0.4
+set_war_support = 0.23
+
+set_popularities = {
+	burjuism = 10
+	bidlo = 10
+	pahanism = 10
+	borshewism = 70
+}
+
+set_politics = {
+	ruling_party = borshewism
+	last_election = "1.1.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+
+create_country_leader = {
+	name = "Iosif Kobzon"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = naziborshewism
+	traits = {
+	
+	}
+}
+
+create_country_leader = {
+	name = "Morgenstern"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = nazi
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Olga Buzova"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = conserva
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Sergey Shur"
+	desc = ""
+	picture = ""
+	expire = "1965.1.1"
+	ideology = despopahanism
+	traits = {
+		#
+	}
+}
