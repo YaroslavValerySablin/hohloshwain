@@ -8,12 +8,12 @@ state={
 	state_category = rural
 
 	history={
-		owner = TRK
+		owner = UEH
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2
 		}
-		add_core_of = TRK
+		add_core_of = UEH
 	}
 
 	manpower=1030210
